@@ -1,6 +1,8 @@
 <div align="center">
   <h1><i>The</i> Repository for 88x31 Buttons</h1>
-  <p>Showing first 304 of 26,024 buttons. Full gallery is split into 52 pages (max 504 per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>
+  <p>Showing first <b>304</b> of <b>26,024</b> buttons. Full gallery is split into 52 pages (max 504 per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>
+
+  <b>Missing something?</b> Add your website of 88x31 buttons to <a href="https://github.com/transicle/88x31-Button-Scraper/blob/main/sites.txt">this list</a> and wait for the automatic repository update cycle.<br><br>
 
   <img src="./assets/000010.gif" width="88" height="31">
   <img src="./assets/000_20Y2K_20NEOCITIES_20BUTTON_2001.png" width="88" height="31">
@@ -184,126 +186,126 @@
   <img src="./assets/1msn.gif" width="88" height="31">
   <img src="./assets/1music.gif" width="88" height="31">
   <img src="./assets/1myspace.gif" width="88" height="31">
-  <img src="./assets/1neo.jpg" width="88" height="31">
-  <img src="./assets/1neo10.gif" width="88" height="31"><br>
+  <img src="./assets/1natgeo.gif" width="88" height="31">
+  <img src="./assets/1neo.jpg" width="88" height="31"><br>
+  <img src="./assets/1neo10.gif" width="88" height="31">
   <img src="./assets/1neo11.gif" width="88" height="31">
   <img src="./assets/1neo12.gif" width="88" height="31">
   <img src="./assets/1neo13.gif" width="88" height="31">
   <img src="./assets/1neo15.gif" width="88" height="31">
   <img src="./assets/1neo16.gif" width="88" height="31">
   <img src="./assets/1neo17.gif" width="88" height="31">
-  <img src="./assets/1neo18.gif" width="88" height="31">
-  <img src="./assets/1neo19.gif" width="88" height="31"><br>
+  <img src="./assets/1neo18.gif" width="88" height="31"><br>
+  <img src="./assets/1neo19.gif" width="88" height="31">
   <img src="./assets/1neo2.gif" width="88" height="31">
   <img src="./assets/1neo20.gif" width="88" height="31">
   <img src="./assets/1neo21.gif" width="88" height="31">
   <img src="./assets/1neo22.gif" width="88" height="31">
   <img src="./assets/1neo23.gif" width="88" height="31">
   <img src="./assets/1neo24.gif" width="88" height="31">
-  <img src="./assets/1neo25.gif" width="88" height="31">
-  <img src="./assets/1neo27.gif" width="88" height="31"><br>
+  <img src="./assets/1neo25.gif" width="88" height="31"><br>
+  <img src="./assets/1neo27.gif" width="88" height="31">
   <img src="./assets/1neo29.gif" width="88" height="31">
   <img src="./assets/1neo3.gif" width="88" height="31">
   <img src="./assets/1neo34.gif" width="88" height="31">
   <img src="./assets/1neo4.gif" width="88" height="31">
   <img src="./assets/1neo5.gif" width="88" height="31">
   <img src="./assets/1neo6.gif" width="88" height="31">
-  <img src="./assets/1neo7.gif" width="88" height="31">
-  <img src="./assets/1neo8.gif" width="88" height="31"><br>
+  <img src="./assets/1neo7.gif" width="88" height="31"><br>
+  <img src="./assets/1neo8.gif" width="88" height="31">
   <img src="./assets/1neo9.gif" width="88" height="31">
   <img src="./assets/1neopets.gif" width="88" height="31">
   <img src="./assets/1netflix.gif" width="88" height="31">
   <img src="./assets/1netscape.gif" width="88" height="31">
   <img src="./assets/1newgrounds.gif" width="88" height="31">
   <img src="./assets/1nft.png" width="88" height="31">
-  <img src="./assets/1nft2.gif" width="88" height="31">
-  <img src="./assets/1notepad.png" width="88" height="31"><br>
+  <img src="./assets/1nft2.gif" width="88" height="31"><br>
+  <img src="./assets/1notepad.png" width="88" height="31">
   <img src="./assets/1notepad2.gif" width="88" height="31">
   <img src="./assets/1notepad3.gif" width="88" height="31">
   <img src="./assets/1notepad7.gif" width="88" height="31">
   <img src="./assets/1notepad8.gif" width="88" height="31">
   <img src="./assets/1notepad9.gif" width="88" height="31">
   <img src="./assets/1of2.gif" width="88" height="31">
-  <img src="./assets/1paint.gif" width="88" height="31">
-  <img src="./assets/1paws.gif" width="88" height="31"><br>
+  <img src="./assets/1paint.gif" width="88" height="31"><br>
+  <img src="./assets/1paws.gif" width="88" height="31">
   <img src="./assets/1paypal.gif" width="88" height="31">
   <img src="./assets/1photobucket.gif" width="88" height="31">
   <img src="./assets/1rss.gif" width="88" height="31">
   <img src="./assets/1share.gif" width="88" height="31">
   <img src="./assets/1sucks.gif" width="88" height="31">
   <img src="./assets/1tumblr.gif" width="88" height="31">
-  <img src="./assets/1twitter.png" width="88" height="31">
-  <img src="./assets/1twitter2.gif" width="88" height="31"><br>
+  <img src="./assets/1twitter.png" width="88" height="31"><br>
+  <img src="./assets/1twitter2.gif" width="88" height="31">
   <img src="./assets/1twitter3.gif" width="88" height="31">
   <img src="./assets/1wiki.gif" width="88" height="31">
   <img src="./assets/1windows.png" width="88" height="31">
   <img src="./assets/1windows2.gif" width="88" height="31">
   <img src="./assets/1windows3.gif" width="88" height="31">
   <img src="./assets/1windows5.gif" width="88" height="31">
-  <img src="./assets/1windows6.gif" width="88" height="31">
-  <img src="./assets/1winrar.gif" width="88" height="31"><br>
+  <img src="./assets/1windows6.gif" width="88" height="31"><br>
+  <img src="./assets/1winrar.gif" width="88" height="31">
   <img src="./assets/1winrar2.gif" width="88" height="31">
   <img src="./assets/1www.png" width="88" height="31">
   <img src="./assets/1www2.png" width="88" height="31">
   <img src="./assets/1y2k.gif" width="88" height="31">
   <img src="./assets/1yahoo.gif" width="88" height="31">
   <img src="./assets/1youtube.gif" width="88" height="31">
-  <img src="./assets/2001_2.gif" width="88" height="31">
-  <img src="./assets/2014-rave_1.gif" width="88" height="31"><br>
+  <img src="./assets/2001_2.gif" width="88" height="31"><br>
+  <img src="./assets/2014-rave_1.gif" width="88" height="31">
   <img src="./assets/2019.gif" width="88" height="31">
   <img src="./assets/21.gif" width="88" height="31">
   <img src="./assets/21studios_1.gif" width="88" height="31">
   <img src="./assets/22-88x31.gif" width="88" height="31">
   <img src="./assets/22yk01_1.png" width="88" height="31">
   <img src="./assets/23_3_2.gif" width="88" height="31">
-  <img src="./assets/24bds.gif" width="88" height="31">
-  <img src="./assets/24fun_1.gif" width="88" height="31"><br>
+  <img src="./assets/24bds.gif" width="88" height="31"><br>
+  <img src="./assets/24fun_1.gif" width="88" height="31">
   <img src="./assets/24hc_1.gif" width="88" height="31">
   <img src="./assets/256_monitor_button.gif" width="88" height="31">
   <img src="./assets/263gggk.gif" width="88" height="31">
   <img src="./assets/280s.gif" width="88" height="31">
   <img src="./assets/28__copy_1_.gif" width="88" height="31">
   <img src="./assets/2__copy_1_.gif" width="88" height="31">
-  <img src="./assets/2ac.png" width="88" height="31">
-  <img src="./assets/2ac2.png" width="88" height="31"><br>
+  <img src="./assets/2ac.png" width="88" height="31"><br>
+  <img src="./assets/2ac2.png" width="88" height="31">
   <img src="./assets/2ac3.png" width="88" height="31">
   <img src="./assets/2anon.gif" width="88" height="31">
   <img src="./assets/2atari.gif" width="88" height="31">
   <img src="./assets/2atari2.png" width="88" height="31">
   <img src="./assets/2beanie.gif" width="88" height="31">
   <img src="./assets/2bit-neocities.png" width="88" height="31">
-  <img src="./assets/2bit_1.png" width="88" height="31">
-  <img src="./assets/2blink.gif" width="88" height="31"><br>
+  <img src="./assets/2bit_1.png" width="88" height="31"><br>
+  <img src="./assets/2blink.gif" width="88" height="31">
   <img src="./assets/2bon.gif" width="88" height="31">
   <img src="./assets/2buttons.gif" width="88" height="31">
   <img src="./assets/2canada.gif" width="88" height="31">
   <img src="./assets/2canada2.gif" width="88" height="31">
   <img src="./assets/2canada3.gif" width="88" height="31">
   <img src="./assets/2canada4.gif" width="88" height="31">
-  <img src="./assets/2catscape.gif" width="88" height="31">
-  <img src="./assets/2catscape2.gif" width="88" height="31"><br>
+  <img src="./assets/2catscape.gif" width="88" height="31"><br>
+  <img src="./assets/2catscape2.gif" width="88" height="31">
   <img src="./assets/2childlibrary.gif" width="88" height="31">
   <img src="./assets/2chill.gif" width="88" height="31">
   <img src="./assets/2coke.gif" width="88" height="31">
   <img src="./assets/2cool4fp.gif" width="88" height="31">
   <img src="./assets/2cow.gif" width="88" height="31">
   <img src="./assets/2cows.gif" width="88" height="31">
-  <img src="./assets/2cs.gif" width="88" height="31">
-  <img src="./assets/2dreamcast.gif" width="88" height="31"><br>
+  <img src="./assets/2cs.gif" width="88" height="31"><br>
+  <img src="./assets/2dreamcast.gif" width="88" height="31">
   <img src="./assets/2frames.gif" width="88" height="31">
   <img src="./assets/2frames2.gif" width="88" height="31">
   <img src="./assets/2freeware.gif" width="88" height="31">
   <img src="./assets/2furby.jpg" width="88" height="31">
   <img src="./assets/2gba.jpg" width="88" height="31">
   <img src="./assets/2hl.gif" width="88" height="31">
-  <img src="./assets/2horror.gif" width="88" height="31">
-  <img src="./assets/2hu.gif" width="88" height="31"><br>
+  <img src="./assets/2horror.gif" width="88" height="31"><br>
+  <img src="./assets/2hu.gif" width="88" height="31">
   <img src="./assets/2linus.gif" width="88" height="31">
   <img src="./assets/2minecraft.png" width="88" height="31">
   <img src="./assets/2peace.png" width="88" height="31">
   <img src="./assets/2picto.gif" width="88" height="31">
   <img src="./assets/2pokemon.gif" width="88" height="31">
   <img src="./assets/2privacy.gif" width="88" height="31">
-  <img src="./assets/2quake.gif" width="88" height="31">
-  <img src="./assets/2sXW6mM.png" width="88" height="31"><br>
+  <img src="./assets/2quake.gif" width="88" height="31"><br>
 </div>
