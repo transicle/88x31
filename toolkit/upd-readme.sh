@@ -7,7 +7,7 @@ assets_dir="${repo_root}/assets"
 readme_file="${repo_root}/README.md"
 gallery_dir="${repo_root}/gallery"
 row_size=8
-max_gallery_per_file=1000
+max_gallery_per_file=504
 
 bash "${script_dir}/update-assets.sh"
 bash "${script_dir}/rm-dupes.sh" "${assets_dir}"
