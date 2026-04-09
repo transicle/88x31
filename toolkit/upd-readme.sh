@@ -78,7 +78,8 @@ cat > "${readme_file}" <<'EOF'
   <h1><i>The</i> Repository for 88x31 Buttons</h1>
 EOF
 
-printf '  <p>Showing first %s of %s buttons. Full gallery is split into %s pages (max %s per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>\n\n' "${formatted_preview_count}" "${formatted_total_count}" "${gallery_pages}" "${formatted_gallery_page_size}" >> "${readme_file}"
+printf '  <p>Showing first <b>%s</b> of <b>%s</b> buttons. Full gallery is split into %s pages (max %s per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>\n\n' "${formatted_preview_count}" "${formatted_total_count}" "${gallery_pages}" "${formatted_gallery_page_size}" >> "${readme_file}"
+printf '  <b>Missing something?</b> Add your website of 88x31 buttons to <a href="https://github.com/transicle/88x31-Button-Scraper/blob/main/sites.txt">this list</a> and wait for the automatic repository update cycle.<br><br>\n\n' >> "${readme_file}"
 
 count=0
 current_page=0
