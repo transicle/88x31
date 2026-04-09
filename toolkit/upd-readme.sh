@@ -58,8 +58,6 @@ printf '  <p>Showing first %s of %s buttons. See <a href="./GALLERY.md">GALLERY.
 cat > "${gallery_file}" <<'EOF'
 <div align="center">
   <h1>Full 88x31 Gallery</h1>
-  <p>Complete list of all buttons in ./assets.</p>
-
 EOF
 
 count=0

@@ -1,7 +1,5 @@
 <div align="center">
   <h1>Full 88x31 Gallery</h1>
-  <p>Complete list of all buttons in ./assets.</p>
-
   <img src="./assets/000010.gif" width="88" height="31">
   <img src="./assets/000_20Y2K_20NEOCITIES_20BUTTON_2001.png" width="88" height="31">
   <img src="./assets/007button_1.gif" width="88" height="31">
