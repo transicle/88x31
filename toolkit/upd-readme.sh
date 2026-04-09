@@ -28,7 +28,7 @@ fi
 
 mapfile -t files < <(find "${assets_dir}" -maxdepth 1 -type f -printf '%f\n' | sort)
 total_count="${#files[@]}"
-preview_count="${PREVIEW_COUNT:-150}"
+preview_count="${PREVIEW_COUNT:-304}"
 
 if ! [[ "${preview_count}" =~ ^[0-9]+$ ]]; then
   echo "Error: PREVIEW_COUNT must be a non-negative integer." >&2
