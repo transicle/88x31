@@ -8,6 +8,9 @@ readme_file="${repo_root}/README.md"
 gallery_file="${repo_root}/GALLERY.md"
 row_size=8
 
+bash "${script_dir}/update-assets.sh"
+bash "${script_dir}/rm-dupes.sh" "${assets_dir}"
+
 format_number() {
   local n out
   n="$1"
