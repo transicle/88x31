@@ -45,4 +45,4 @@ jobs:
           fi
 
           git commit -m "chore: hourly repository update"
-          git push
+          git push --force
