@@ -3,43 +3,43 @@
   <p>The largest 88x31 90s-2000s esque button repository on the internet.
   </p>
 
-  <p>Showing first 150 of 9120 buttons. See <a href="./GALLERY.md">GALLERY.md</a> for the full list.</p>
+  <p>Showing first 150 of 9,120 buttons. See <a href="./GALLERY.md">GALLERY.md</a> for the full list.</p>
 
   <img src="./assets/000010.gif" width="88" height="31">
   <img src="./assets/000010_1.gif" width="88" height="31">
   <img src="./assets/000010_2.gif" width="88" height="31">
   <img src="./assets/000_20Y2K_20NEOCITIES_20BUTTON_2001.png" width="88" height="31">
-  <img src="./assets/007button.gif" width="88" height="31"><br>
+  <img src="./assets/007button.gif" width="88" height="31">
   <img src="./assets/007button_1.gif" width="88" height="31">
   <img src="./assets/007button_2.gif" width="88" height="31">
-  <img src="./assets/01ce3e2060f3e0e41af78f2860a3159d28739c1f.png" width="88" height="31">
+  <img src="./assets/01ce3e2060f3e0e41af78f2860a3159d28739c1f.png" width="88" height="31"><br>
   <img src="./assets/09.gif" width="88" height="31">
-  <img src="./assets/09_1.gif" width="88" height="31"><br>
+  <img src="./assets/09_1.gif" width="88" height="31">
   <img src="./assets/09_2.gif" width="88" height="31">
   <img src="./assets/1000wstbutton2.gif" width="88" height="31">
   <img src="./assets/1000wstbutton2_1.gif" width="88" height="31">
   <img src="./assets/1001ffbutton.gif" width="88" height="31">
-  <img src="./assets/1001ffbutton_1.gif" width="88" height="31"><br>
-  <img src="./assets/1001ffbutton_2.gif" width="88" height="31">
+  <img src="./assets/1001ffbutton_1.gif" width="88" height="31">
+  <img src="./assets/1001ffbutton_2.gif" width="88" height="31"><br>
   <img src="./assets/1001freenewfontsbutton.gif" width="88" height="31">
   <img src="./assets/1001freenewfontsbutton_1.gif" width="88" height="31">
   <img src="./assets/1001freenewfontsbutton_2.gif" width="88" height="31">
-  <img src="./assets/100best_88x31.gif" width="88" height="31"><br>
+  <img src="./assets/100best_88x31.gif" width="88" height="31">
   <img src="./assets/100best_88x31_1.gif" width="88" height="31">
   <img src="./assets/100best_88x31_2.gif" width="88" height="31">
   <img src="./assets/100hot.gif" width="88" height="31">
-  <img src="./assets/100hot2.gif" width="88" height="31">
-  <img src="./assets/100hot2_1.gif" width="88" height="31"><br>
+  <img src="./assets/100hot2.gif" width="88" height="31"><br>
+  <img src="./assets/100hot2_1.gif" width="88" height="31">
   <img src="./assets/100hot_1.gif" width="88" height="31">
   <img src="./assets/100hot_2.gif" width="88" height="31">
   <img src="./assets/100hot__3_.gif" width="88" height="31">
   <img src="./assets/100hot__copy_1_.gif" width="88" height="31">
-  <img src="./assets/101-dogs.gif" width="88" height="31"><br>
+  <img src="./assets/101-dogs.gif" width="88" height="31">
   <img src="./assets/101-dogs_1.gif" width="88" height="31">
-  <img src="./assets/101.gif" width="88" height="31">
+  <img src="./assets/101.gif" width="88" height="31"><br>
   <img src="./assets/102_1.gif" width="88" height="31">
   <img src="./assets/102_1_1.gif" width="88" height="31">
-  <img src="./assets/104.gif" width="88" height="31"><br>
+  <img src="./assets/104.gif" width="88" height="31">
   <img src="./assets/104_1.gif" width="88" height="31">
   <img src="./assets/104_2.gif" width="88" height="31">
   <img src="./assets/1080p.gif" width="88" height="31">
@@ -49,37 +49,37 @@
   <img src="./assets/117.png" width="88" height="31">
   <img src="./assets/117_1.png" width="88" height="31">
   <img src="./assets/119.gif" width="88" height="31">
-  <img src="./assets/119_1.gif" width="88" height="31"><br>
+  <img src="./assets/119_1.gif" width="88" height="31">
   <img src="./assets/119_2.gif" width="88" height="31">
   <img src="./assets/119__copy_1_.gif" width="88" height="31">
-  <img src="./assets/12.gif" width="88" height="31">
+  <img src="./assets/12.gif" width="88" height="31"><br>
   <img src="./assets/121_002.gif" width="88" height="31">
-  <img src="./assets/1220499.gif" width="88" height="31"><br>
+  <img src="./assets/1220499.gif" width="88" height="31">
   <img src="./assets/1220499_1.gif" width="88" height="31">
   <img src="./assets/123clipartbtn.gif" width="88" height="31">
   <img src="./assets/123clipartbtn_1.gif" width="88" height="31">
   <img src="./assets/123clipartbtn_2.gif" width="88" height="31">
-  <img src="./assets/127.gif" width="88" height="31"><br>
-  <img src="./assets/128.gif" width="88" height="31">
+  <img src="./assets/127.gif" width="88" height="31">
+  <img src="./assets/128.gif" width="88" height="31"><br>
   <img src="./assets/128_1.gif" width="88" height="31">
   <img src="./assets/128_2.gif" width="88" height="31">
   <img src="./assets/12_1.gif" width="88" height="31">
-  <img src="./assets/12_2.gif" width="88" height="31"><br>
+  <img src="./assets/12_2.gif" width="88" height="31">
   <img src="./assets/12men.gif" width="88" height="31">
   <img src="./assets/12men_1.gif" width="88" height="31">
   <img src="./assets/148.gif" width="88" height="31">
-  <img src="./assets/149.png" width="88" height="31">
-  <img src="./assets/149_1.png" width="88" height="31"><br>
+  <img src="./assets/149.png" width="88" height="31"><br>
+  <img src="./assets/149_1.png" width="88" height="31">
   <img src="./assets/153.png" width="88" height="31">
   <img src="./assets/153_1.png" width="88" height="31">
   <img src="./assets/154.png" width="88" height="31">
   <img src="./assets/154_1.png" width="88" height="31">
-  <img src="./assets/16504532.png" width="88" height="31"><br>
+  <img src="./assets/16504532.png" width="88" height="31">
   <img src="./assets/16504532_1.png" width="88" height="31">
-  <img src="./assets/168.gif" width="88" height="31">
+  <img src="./assets/168.gif" width="88" height="31"><br>
   <img src="./assets/168_1.gif" width="88" height="31">
   <img src="./assets/17.gif" width="88" height="31">
-  <img src="./assets/176.gif" width="88" height="31"><br>
+  <img src="./assets/176.gif" width="88" height="31">
   <img src="./assets/17_1.gif" width="88" height="31">
   <img src="./assets/17_2.gif" width="88" height="31">
   <img src="./assets/17__copy_1_.gif" width="88" height="31">
@@ -89,37 +89,37 @@
   <img src="./assets/18_1.gif" width="88" height="31">
   <img src="./assets/18_1.png" width="88" height="31">
   <img src="./assets/18_2.gif" width="88" height="31">
-  <img src="./assets/19.gif" width="88" height="31"><br>
+  <img src="./assets/19.gif" width="88" height="31">
   <img src="./assets/1979.png" width="88" height="31">
   <img src="./assets/1979_1.png" width="88" height="31">
-  <img src="./assets/1999x.gif" width="88" height="31">
+  <img src="./assets/1999x.gif" width="88" height="31"><br>
   <img src="./assets/1999x_1.gif" width="88" height="31">
-  <img src="./assets/19_1.gif" width="88" height="31"><br>
+  <img src="./assets/19_1.gif" width="88" height="31">
   <img src="./assets/19_2.gif" width="88" height="31">
   <img src="./assets/19__copy_1_.gif" width="88" height="31">
   <img src="./assets/1blades.gif" width="88" height="31">
   <img src="./assets/1blades_1.gif" width="88" height="31">
-  <img src="./assets/1blades_2.gif" width="88" height="31"><br>
-  <img src="./assets/1cfuj1.gif" width="88" height="31">
+  <img src="./assets/1blades_2.gif" width="88" height="31">
+  <img src="./assets/1cfuj1.gif" width="88" height="31"><br>
   <img src="./assets/1dirlogo.gif" width="88" height="31">
   <img src="./assets/1dirlogo_1.gif" width="88" height="31">
   <img src="./assets/1dirlogo_2.gif" width="88" height="31">
-  <img src="./assets/1dlb.gif" width="88" height="31"><br>
+  <img src="./assets/1dlb.gif" width="88" height="31">
   <img src="./assets/1en8ioQ.gif" width="88" height="31">
   <img src="./assets/1en8ioQ_1.gif" width="88" height="31">
   <img src="./assets/1en8ioQ_2.gif" width="88" height="31">
-  <img src="./assets/1kb.gif" width="88" height="31">
-  <img src="./assets/1kb_1.gif" width="88" height="31"><br>
+  <img src="./assets/1kb.gif" width="88" height="31"><br>
+  <img src="./assets/1kb_1.gif" width="88" height="31">
   <img src="./assets/1of2.gif" width="88" height="31">
   <img src="./assets/1of2_1.gif" width="88" height="31">
   <img src="./assets/2.gif" width="88" height="31">
   <img src="./assets/2001.gif" width="88" height="31">
-  <img src="./assets/2001_1.gif" width="88" height="31"><br>
+  <img src="./assets/2001_1.gif" width="88" height="31">
   <img src="./assets/2001_2.gif" width="88" height="31">
-  <img src="./assets/2014-rave.gif" width="88" height="31">
+  <img src="./assets/2014-rave.gif" width="88" height="31"><br>
   <img src="./assets/2014-rave_1.gif" width="88" height="31">
   <img src="./assets/2019.gif" width="88" height="31">
-  <img src="./assets/2019_1.gif" width="88" height="31"><br>
+  <img src="./assets/2019_1.gif" width="88" height="31">
   <img src="./assets/2019_2.gif" width="88" height="31">
   <img src="./assets/204.gif" width="88" height="31">
   <img src="./assets/21.gif" width="88" height="31">
@@ -129,30 +129,30 @@
   <img src="./assets/21studios_2.gif" width="88" height="31">
   <img src="./assets/22-88x31.gif" width="88" height="31">
   <img src="./assets/22-88x31_1.gif" width="88" height="31">
-  <img src="./assets/22-88x31_2.gif" width="88" height="31"><br>
+  <img src="./assets/22-88x31_2.gif" width="88" height="31">
   <img src="./assets/22yk01.png" width="88" height="31">
   <img src="./assets/22yk01_1.png" width="88" height="31">
-  <img src="./assets/23_3.gif" width="88" height="31">
+  <img src="./assets/23_3.gif" width="88" height="31"><br>
   <img src="./assets/23_3_1.gif" width="88" height="31">
-  <img src="./assets/23_3_2.gif" width="88" height="31"><br>
+  <img src="./assets/23_3_2.gif" width="88" height="31">
   <img src="./assets/24.gif" width="88" height="31">
   <img src="./assets/24bds.gif" width="88" height="31">
   <img src="./assets/24bds_1.gif" width="88" height="31">
   <img src="./assets/24bds_2.gif" width="88" height="31">
-  <img src="./assets/24fun.gif" width="88" height="31"><br>
-  <img src="./assets/24fun_1.gif" width="88" height="31">
+  <img src="./assets/24fun.gif" width="88" height="31">
+  <img src="./assets/24fun_1.gif" width="88" height="31"><br>
   <img src="./assets/24fun_2.gif" width="88" height="31">
   <img src="./assets/24hc.gif" width="88" height="31">
   <img src="./assets/24hc_1.gif" width="88" height="31">
-  <img src="./assets/24hc_2.gif" width="88" height="31"><br>
+  <img src="./assets/24hc_2.gif" width="88" height="31">
   <img src="./assets/256_monitor_button.gif" width="88" height="31">
   <img src="./assets/263gggk.gif" width="88" height="31">
   <img src="./assets/263gggk_1.gif" width="88" height="31">
-  <img src="./assets/28.gif" width="88" height="31">
-  <img src="./assets/28__copy_1_.gif" width="88" height="31"><br>
+  <img src="./assets/28.gif" width="88" height="31"><br>
+  <img src="./assets/28__copy_1_.gif" width="88" height="31">
   <img src="./assets/28__copy_1__1.gif" width="88" height="31">
   <img src="./assets/2__copy_1_.gif" width="88" height="31">
   <img src="./assets/2__copy_1__1.gif" width="88" height="31">
   <img src="./assets/2bit-neocities.png" width="88" height="31">
-  <img src="./assets/2bit.png" width="88" height="31"><br>
+  <img src="./assets/2bit.png" width="88" height="31">
 </div>

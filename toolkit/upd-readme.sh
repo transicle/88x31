@@ -6,6 +6,20 @@ repo_root="$(cd "${script_dir}/.." && pwd)"
 assets_dir="${repo_root}/assets"
 readme_file="${repo_root}/README.md"
 gallery_file="${repo_root}/GALLERY.md"
+row_size=8
+
+format_number() {
+  local n out
+  n="$1"
+  out=""
+
+  while [[ ${#n} -gt 3 ]]; do
+    out=",${n: -3}${out}"
+    n="${n:0:${#n}-3}"
+  done
+
+  printf '%s%s' "${n}" "${out}"
+}
 
 if [[ ! -d "${assets_dir}" ]]; then
   echo "Error: assets directory not found at ${assets_dir}" >&2
@@ -25,6 +39,9 @@ if (( preview_count > total_count )); then
   preview_count="${total_count}"
 fi
 
+formatted_total_count="$(format_number "${total_count}")"
+formatted_preview_count="$(format_number "${preview_count}")"
+
 : > "${readme_file}"
 : > "${gallery_file}"
 
@@ -36,7 +53,7 @@ cat > "${readme_file}" <<'EOF'
 
 EOF
 
-printf '  <p>Showing first %d of %d buttons. See <a href="./GALLERY.md">GALLERY.md</a> for the full list.</p>\n\n' "${preview_count}" "${total_count}" >> "${readme_file}"
+printf '  <p>Showing first %s of %s buttons. See <a href="./GALLERY.md">GALLERY.md</a> for the full list.</p>\n\n' "${formatted_preview_count}" "${formatted_total_count}" >> "${readme_file}"
 
 cat > "${gallery_file}" <<'EOF'
 <div align="center">
@@ -48,14 +65,14 @@ EOF
 count=0
 for file in "${files[@]}"; do
   if (( count < preview_count )); then
-    if (( count % 5 == 4 )); then
+    if (( count % row_size == row_size - 1 )); then
       printf '  <img src="./assets/%s" width="88" height="31"><br>\n' "${file}" >> "${readme_file}"
     else
       printf '  <img src="./assets/%s" width="88" height="31">\n' "${file}" >> "${readme_file}"
     fi
   fi
 
-  if (( count % 5 == 4 )); then
+  if (( count % row_size == row_size - 1 )); then
     printf '  <img src="./assets/%s" width="88" height="31"><br>\n' "${file}" >> "${gallery_file}"
   else
     printf '  <img src="./assets/%s" width="88" height="31">\n' "${file}" >> "${gallery_file}"
@@ -67,4 +84,4 @@ done
 printf '</div>\n' >> "${readme_file}"
 printf '</div>\n' >> "${gallery_file}"
 
-echo "Updated ${readme_file} with ${preview_count} image tags (preview) and ${gallery_file} with ${count} image tags (full)."
+echo "Updated ${readme_file} with ${formatted_preview_count} image tags (preview) and ${gallery_file} with ${formatted_total_count} image tags (full)."
