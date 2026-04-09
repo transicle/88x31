@@ -1,8 +1,5 @@
 <div align="center">
   <h1><i>The</i> Repository for 88x31 Buttons</h1>
-  <p>The largest 88x31 90s-2000s esque button repository on the internet.
-  </p>
-
   <p>Showing first 304 of 6,800 buttons. See <a href="./GALLERY.md">GALLERY.md</a> for the full list.</p>
 
   <img src="./assets/000010.gif" width="88" height="31">

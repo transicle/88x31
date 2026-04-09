@@ -51,9 +51,6 @@ formatted_preview_count="$(format_number "${preview_count}")"
 cat > "${readme_file}" <<'EOF'
 <div align="center">
   <h1><i>The</i> Repository for 88x31 Buttons</h1>
-  <p>The largest 88x31 90s-2000s esque button repository on the internet.
-  </p>
-
 EOF
 
 printf '  <p>Showing first %s of %s buttons. See <a href="./GALLERY.md">GALLERY.md</a> for the full list.</p>\n\n' "${formatted_preview_count}" "${formatted_total_count}" >> "${readme_file}"
