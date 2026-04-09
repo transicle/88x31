@@ -1,6 +1,6 @@
 <div align="center">
   <h1><i>The</i> Repository for 88x31 Buttons</h1>
-  <p>Showing first 304 of 6,800 buttons. See <a href="./GALLERY.md">GALLERY.md</a> for the full list.</p>
+  <p>Showing first 304 of 6,800 buttons. Full gallery is split into 7 pages (max 1,000 per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>
 
   <img src="./assets/000010.gif" width="88" height="31">
   <img src="./assets/000_20Y2K_20NEOCITIES_20BUTTON_2001.png" width="88" height="31">
