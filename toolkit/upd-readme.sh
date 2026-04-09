@@ -91,17 +91,22 @@ open_gallery_page() {
   cat > "${gallery_file}" <<EOF
 <div align="center">
   <h1>Full 88x31 Gallery (Page ${page}/${gallery_pages})</h1>
+  <p>
 EOF
 
   if (( page > 1 )); then
-    printf '  <p><a href="./GALLERY_%d.md">&larr; Previous</a></p>\n' "$((page - 1))" >> "${gallery_file}"
+    printf '    <a href="./GALLERY_%d.md">&larr; Previous</a>\n' "$((page - 1))" >> "${gallery_file}"
+  fi
+
+  if (( page > 1 )) && (( page < gallery_pages )); then
+    printf '    |\n' >> "${gallery_file}"
   fi
 
   if (( page < gallery_pages )); then
-    printf '  <p><a href="./GALLERY_%d.md">Next &rarr;</a></p>\n' "$((page + 1))" >> "${gallery_file}"
+    printf '    <a href="./GALLERY_%d.md">Next &rarr;</a>\n' "$((page + 1))" >> "${gallery_file}"
   fi
 
-  printf '\n' >> "${gallery_file}"
+  printf '  </p>\n\n' >> "${gallery_file}"
   current_gallery_file="${gallery_file}"
 }
 
