@@ -17,25 +17,23 @@ mapfile -t files < <(find "${assets_dir}" -maxdepth 1 -type f -printf '%f\n' | s
 
 cat > "${readme_file}" <<'EOF'
 <div align="center">
-    <h1><i>The</i> Repository for 88x31 Buttons</h1>
-    <p>The largest 88x31 90s-2000s esque button repository on the internet.
-    </p>
-</div>
+  <h1><i>The</i> Repository for 88x31 Buttons</h1>
+  <p>The largest 88x31 90s-2000s esque button repository on the internet.
+  </p>
 
 EOF
 
 count=0
 for file in "${files[@]}"; do
-  printf '<img src="./assets/%s" width="88" height="31">\n' "${file}" >> "${readme_file}"
-  ((count += 1))
-
-  if (( count % 8 == 0 )); then
-    printf '<br>\n' >> "${readme_file}"
+  if (( count % 5 == 4 )); then
+    printf '  <img src="./assets/%s" width="88" height="31"><br>\n' "${file}" >> "${readme_file}"
+  else
+    printf '  <img src="./assets/%s" width="88" height="31">\n' "${file}" >> "${readme_file}"
   fi
+
+  ((count += 1))
 done
 
-if (( count % 8 != 0 )); then
-  printf '\n' >> "${readme_file}"
-fi
+printf '</div>\n' >> "${readme_file}"
 
 echo "Updated ${readme_file} with ${count} image tags."
