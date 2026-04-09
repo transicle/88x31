@@ -45,4 +45,17 @@ jobs:
           fi
 
           git commit -m "chore: hourly repository update"
-          git push --force
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            echo "Push failed on attempt ${attempt}; retrying."
+          done
+
+          echo "Push failed after 3 attempts."
+          exit 1
