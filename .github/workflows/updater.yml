@@ -45,5 +45,4 @@ jobs:
           fi
 
           git commit -m "chore: hourly repository update"
-          git push --force
-          exit 1
+          git push --force origin main
