@@ -38,11 +38,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-
+          git add .
           git commit -m "chore: hourly repository update"
-          git push --force origin main
+          git push --force
