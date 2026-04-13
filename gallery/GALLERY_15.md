@@ -6,6 +6,14 @@
     <a href="./GALLERY_16.md">Next &rarr;</a>
   </p>
 
+  <img src="../assets/1geo12.gif" width="88" height="31">
+  <img src="../assets/1geo13.gif" width="88" height="31">
+  <img src="../assets/1geo14.gif" width="88" height="31">
+  <img src="../assets/1geo15.gif" width="88" height="31">
+  <img src="../assets/1geo16.gif" width="88" height="31">
+  <img src="../assets/1geo17.gif" width="88" height="31">
+  <img src="../assets/1geo18.gif" width="88" height="31">
+  <img src="../assets/1geo19.gif" width="88" height="31"><br>
   <img src="../assets/1geo2.png" width="88" height="31">
   <img src="../assets/1geo20.gif" width="88" height="31">
   <img src="../assets/1geo21.gif" width="88" height="31">
@@ -502,12 +510,4 @@
   <img src="../assets/21b06b529789cc1d3482b4ffb9b8c58b64bb6d060cc6a32874f964982ba76fd9.gif" width="88" height="31">
   <img src="../assets/21b080b8572b0dcfdb18cc5c30bf4cf521d049ee104d60eee49ddbf905ab6cf8.gif" width="88" height="31">
   <img src="../assets/21b0897952ce76152d411461e64b46dcada0861a3497f0439f7eff510b91f41a.gif" width="88" height="31"><br>
-  <img src="../assets/21b15a5a01035050e7e75562ec230158d27d30168bd0237af53a64c0832cbd3d.gif" width="88" height="31">
-  <img src="../assets/21b17c5dc5845646b12e15df8a01a695d0ed3f1776c542a62583d64f0c3067d1.gif" width="88" height="31">
-  <img src="../assets/21b26a8b9f4e875657a98850053776effaa7a8fa7852de94f79ce08b11d7d5c4.gif" width="88" height="31">
-  <img src="../assets/21b2ad7ad9fd4093e7beab2170394e87c0f4c3e791a1c2ab6fdfbc553ec95379.gif" width="88" height="31">
-  <img src="../assets/21b3cdb2ad014dc51e1f0011ae3f5624585fb6813327a5def778a3e9deb21fe7.gif" width="88" height="31">
-  <img src="../assets/21b6a026376da7f00948af935036decc3cd6659b2c72c5b0f647f5f1fc3af4a4.gif" width="88" height="31">
-  <img src="../assets/21b73dfd904fff0d4e79db35186c81b7865e8ce2a3e5fe2be6f3187e5a7f4292.gif" width="88" height="31">
-  <img src="../assets/21b843b590c0de533e451e0f41f42b9e6c507854f29def894d3e8d0461b7d815.gif" width="88" height="31"><br>
 </div>

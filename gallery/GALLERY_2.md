@@ -6,57 +6,65 @@
     <a href="./GALLERY_3.md">Next &rarr;</a>
   </p>
 
+  <img src="../assets/02471d8ab9ce2503bdfe66941605da111e4308818a5d110764c0d93106101ed9.gif" width="88" height="31">
+  <img src="../assets/0247b95f383d23b7c496de8463c7e9c3fafac17250e94996469b25a72d9ca1b4.gif" width="88" height="31">
+  <img src="../assets/02493296c634068da59e03328b8725b11e6a753f9eca5802bad089d2659bd131.gif" width="88" height="31">
+  <img src="../assets/024a8f8318ccc0c7c01a1ad7d862eaf9122755eaf862e2ab99911919a56e8984.gif" width="88" height="31">
+  <img src="../assets/024bd8994a477a2f2e83b1aabaa9a1e23e52867b681ee8990e76356e8763730c.gif" width="88" height="31">
   <img src="../assets/025071372e9b6de63041fc27b52b7b751b0af3e7125e6a8e632a03e7efcbdd02.gif" width="88" height="31">
   <img src="../assets/025171f368847036f3de7b1f357b55a616328c60f3c9e4e62e24a3498baef882.gif" width="88" height="31">
-  <img src="../assets/0251f869c39878226caf70470fb2a2889c73ef7a45326261b205bb307d8636f1.gif" width="88" height="31">
+  <img src="../assets/0251f869c39878226caf70470fb2a2889c73ef7a45326261b205bb307d8636f1.gif" width="88" height="31"><br>
   <img src="../assets/0252b7ac45edf18897298fe7cc8f73f6e344e1939dbd930b0a975602071c4c2a.gif" width="88" height="31">
   <img src="../assets/02531807ea9aa807799e4f2aeaf1e307c0bb16654e2bc067c9b55d34ea2cce7c.gif" width="88" height="31">
   <img src="../assets/0254513c7da4c7573705066c328949091d3329ce0b2a1e13564316682a5a1fec.gif" width="88" height="31">
   <img src="../assets/02545b3c47e592308087d7afdf7a0c47a9628f6482fec1e0446933a603807ce4.gif" width="88" height="31">
-  <img src="../assets/0255baa05a7733902b61d20b09a42209524eff4349f5b162dd837b0811a555b2.gif" width="88" height="31"><br>
+  <img src="../assets/0255baa05a7733902b61d20b09a42209524eff4349f5b162dd837b0811a555b2.gif" width="88" height="31">
   <img src="../assets/02564f16cf8837d9835bdebfd3fe67cb0d2a0a68eb4223870659c48b016b349c.gif" width="88" height="31">
   <img src="../assets/0257c4a3e0ccfa55e5223a3ee4a2b95bf3551f1a7a35da1d79569e7b2b710eba.gif" width="88" height="31">
-  <img src="../assets/0259004263dac097a2d4d80baadfd576d77feea1ad6c71c076bb4a20d1ed7ea4.gif" width="88" height="31">
+  <img src="../assets/0259004263dac097a2d4d80baadfd576d77feea1ad6c71c076bb4a20d1ed7ea4.gif" width="88" height="31"><br>
   <img src="../assets/025934b6fce132bc93c3c065dbcf15552185fb02e8ef4b9ae3cd8bcf96fba24a.gif" width="88" height="31">
   <img src="../assets/025983dd5dfce72a7411352a50fccb21a55d8817e6b5e3bc1df72f326f532a11.gif" width="88" height="31">
   <img src="../assets/0259db4e774377d1fb66b3f29a4756fc41d36f48a29fc59bc748f5ef29f7a202.gif" width="88" height="31">
   <img src="../assets/025a05392ea426c8dfcd3575d82280b4e086bcb4a660af4bcc866e08c64ff3b2.gif" width="88" height="31">
-  <img src="../assets/025c2af3d21241dcf2ebe230f05dd8d796bd9e7357909e83921aff91814e1246.gif" width="88" height="31"><br>
+  <img src="../assets/025c2af3d21241dcf2ebe230f05dd8d796bd9e7357909e83921aff91814e1246.gif" width="88" height="31">
   <img src="../assets/025c35fd04f3808492083ef01c5920d0bee063f9c9277efb55c75d5f85f14748.gif" width="88" height="31">
   <img src="../assets/025ccf27387abeeb2a6a9225135b599a67de71e8faf01e4544a4db96a125613c.gif" width="88" height="31">
-  <img src="../assets/025de977430f2afc9db8b1ea29df96be547e7c29a678a058c33beb8beb8df3b7.gif" width="88" height="31">
+  <img src="../assets/025de977430f2afc9db8b1ea29df96be547e7c29a678a058c33beb8beb8df3b7.gif" width="88" height="31"><br>
   <img src="../assets/025f363dcc8ced958cef47ae677d9f2cfd4161476eff84400ddb9573e02885a3.gif" width="88" height="31">
   <img src="../assets/02607d74e5f3efcb02fc46fc6a329ab3ce7c6a78aba3cd024d0985b51a174115.gif" width="88" height="31">
   <img src="../assets/0261cd06cae13dae5f518e51fa8b6d1fa1e2edcf0b3179d77cb0e5b435e000a0.gif" width="88" height="31">
   <img src="../assets/026335025f41148da6ff89e1a91640302fc2e9b7bc00e86ec2fe96d6b3b112b0.gif" width="88" height="31">
-  <img src="../assets/0263dfe748ecd7668c70dabab41dc2935b65d432676539e277b176f91d3be4e7.gif" width="88" height="31"><br>
+  <img src="../assets/0263dfe748ecd7668c70dabab41dc2935b65d432676539e277b176f91d3be4e7.gif" width="88" height="31">
   <img src="../assets/026434bdf392c184cd3261f935b873c18f8406174fc3021a133fac4a50226e9d.gif" width="88" height="31">
   <img src="../assets/0266990c39e4eb640e300bf7870e011d96a483eead61783f728963da7bac57b0.gif" width="88" height="31">
-  <img src="../assets/02677668f5361d3f7cc6c39af414cebbefd099434c05030eaa122b86919f022f.gif" width="88" height="31">
+  <img src="../assets/02677668f5361d3f7cc6c39af414cebbefd099434c05030eaa122b86919f022f.gif" width="88" height="31"><br>
   <img src="../assets/0268304e53243f1c498614ea07388d5fb8e6b0dac4e5765a98764d1f07b0e9b5.gif" width="88" height="31">
+  <img src="../assets/0269cefad76a2bd471398d617357546b97184808031f986dac8d9fc5734f64e0.gif" width="88" height="31">
   <img src="../assets/026b073065edf1336aeb10b88780438fee9c1a67fcec1732fbcee9fd703d4d50.gif" width="88" height="31">
   <img src="../assets/026b40d8db0dc1eb1cb0c54636862262f1c7e2e261ee63725e49f8aa431e70c8.gif" width="88" height="31">
   <img src="../assets/026c1832954e97d541f565fea3337cf5b67f395c0c075a5a47b684245d5c49b1.gif" width="88" height="31">
-  <img src="../assets/026c9e246ead4591576d0932d1d79cc90b624e154fe9ddda0ee1fd0cf837d1df.gif" width="88" height="31"><br>
+  <img src="../assets/026c9e246ead4591576d0932d1d79cc90b624e154fe9ddda0ee1fd0cf837d1df.gif" width="88" height="31">
   <img src="../assets/026e54f2125ce64b46dbb9f7d97b3f93239cb469e17aaed234396ac2b587b9eb.gif" width="88" height="31">
-  <img src="../assets/026f76221831a980cf6349d5bf6da75b68dcd1fe829b8bada0897e30c96c2bd4.gif" width="88" height="31">
+  <img src="../assets/026f76221831a980cf6349d5bf6da75b68dcd1fe829b8bada0897e30c96c2bd4.gif" width="88" height="31"><br>
   <img src="../assets/02717e7be0686611d69e1a875307418103e2447f7188c190a2507d3dfbfca802.gif" width="88" height="31">
   <img src="../assets/0271e2e276764b9276a9e3da7501ebf2591cf60a343cb483e63e55ec48b2b509.gif" width="88" height="31">
   <img src="../assets/0273197c9c402f8088eadab3c565ce5fe8030359c8507fafaeca9593851460ee.gif" width="88" height="31">
   <img src="../assets/02745d5705cede77fc490c1ee6d8757da531e8ba3b6d36ac7e6106fc57512e7f.gif" width="88" height="31">
   <img src="../assets/0274ac560598952bc62d02a81c3988f90ff033b11803ee0788070aa48f6e013f.gif" width="88" height="31">
-  <img src="../assets/0274e39a1c4a9d9eb8d9bd87cbfd0c027f535fe43792b22f32a0a3c2776db8da.gif" width="88" height="31"><br>
+  <img src="../assets/0274e39a1c4a9d9eb8d9bd87cbfd0c027f535fe43792b22f32a0a3c2776db8da.gif" width="88" height="31">
   <img src="../assets/02767d42950e02e572d65dfa17413decb7536466db7b40a4a1aad164157ce7cd.gif" width="88" height="31">
-  <img src="../assets/027718752e7c7199dca2583300bd8dcc76ac0b9e5e6e6ddf3113b2cef9d609e1.gif" width="88" height="31">
+  <img src="../assets/027718752e7c7199dca2583300bd8dcc76ac0b9e5e6e6ddf3113b2cef9d609e1.gif" width="88" height="31"><br>
   <img src="../assets/0277885218a985f5d35099650d2158db80190ee1d81f3f0ab7a72c918470c5a5.gif" width="88" height="31">
   <img src="../assets/0277b04b7bb27e0fa848d54cdb2478143dec4d97511bd69aff2cca86278e5cde.gif" width="88" height="31">
   <img src="../assets/027884000b9fb0e73c83bbb28ecc104c9c063418a96df493c0a9456185608bc8.gif" width="88" height="31">
   <img src="../assets/027991eb2115749b4aefae2be127a70119899235c8f1dceaab9c5903e936c2b2.gif" width="88" height="31">
   <img src="../assets/027a3b8746c17dbf23130e706930e282e928d28d4ad0b759f4a05faa107365d8.gif" width="88" height="31">
-  <img src="../assets/027b55bcfa3545210d5f51fadd6eb3f56b63bdd7cece70a736d5e095fbf10277.gif" width="88" height="31"><br>
+  <img src="../assets/027b55bcfa3545210d5f51fadd6eb3f56b63bdd7cece70a736d5e095fbf10277.gif" width="88" height="31">
   <img src="../assets/027cab0cd0a27f4d4c116821afc55d3d8571522136fe8c13eebeb150825591e6.gif" width="88" height="31">
-  <img src="../assets/028092ed31d963ed51d06e3381eeebc27d93b564a31ea2d112a3e69bf689ec9e.gif" width="88" height="31">
+  <img src="../assets/028092ed31d963ed51d06e3381eeebc27d93b564a31ea2d112a3e69bf689ec9e.gif" width="88" height="31"><br>
+  <img src="../assets/0280d58a6f5053ee3120d679e745e30e6be1fc2a9640322dbb187d6ac808f5a6.gif" width="88" height="31">
   <img src="../assets/0281964ea6f6fea1fb16bf536d86ec4a539dea6e340b9db2ac5b42f5f58eff7f.gif" width="88" height="31">
+  <img src="../assets/0281d585caf7ccde77f3250ef9cdb782190645e1277db77512165cf9fecbcf0b.gif" width="88" height="31">
   <img src="../assets/0282b4b2348b4f08069d2bc1776bd88b5563150dde07b43980656e16e01c9f46.gif" width="88" height="31">
   <img src="../assets/028368dd341306a80075c0bd037223b2d966dd231e09b891679494e27c7d713a.gif" width="88" height="31">
   <img src="../assets/0283a6d48a5ef4a4b1ace9017dc003f488618503815698f4fd85a0ed575308b8.gif" width="88" height="31">
@@ -502,12 +510,4 @@
   <img src="../assets/04af94506bbae83e1ef45d7258f91a82fccabb6e204683381e1b1d156abf71e0.gif" width="88" height="31">
   <img src="../assets/04afae7615643578656099af08ef77397ee6f81df16d4b55183b81385b117192.gif" width="88" height="31">
   <img src="../assets/04b282119806420796208ba5d5a2b34e0f49dcc6fe0b6b87cbf0dafdaf4806e8.gif" width="88" height="31"><br>
-  <img src="../assets/04b3c9256433516c560c7f1ddead956add0d8023a926a229fa8061ead47a1c7b.gif" width="88" height="31">
-  <img src="../assets/04b41d47d36479f90f4e35142268f38f8b2f029b3916352d0e90a8f59d8fddd9.gif" width="88" height="31">
-  <img src="../assets/04b4b543413d3c4232554e80042dea13a38a4ca61f42c8026c259b4ab72d541b.gif" width="88" height="31">
-  <img src="../assets/04b56661c89dda4e71d25a0129408736b18e8d886ea23092f0b5b74722778d4e.gif" width="88" height="31">
-  <img src="../assets/04b59d281203e5e52ae9deb12b7568528120df80edd06940f42a5f193363f6f8.gif" width="88" height="31">
-  <img src="../assets/04b63eac0a1e23c116dad25df15b8a438f2a178fd0f648f0576803fd402d0018.gif" width="88" height="31">
-  <img src="../assets/04b7211444de79d7d215a2035fedb72d5986e8d829e504e79bd78460683c9fb8.gif" width="88" height="31">
-  <img src="../assets/04b898f5e73d1d01940ba6fd765b9aeccd765fd3530e13475f550c911c980b1b.gif" width="88" height="31"><br>
 </div>

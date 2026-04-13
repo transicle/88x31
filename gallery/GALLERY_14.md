@@ -6,6 +6,14 @@
     <a href="./GALLERY_15.md">Next &rarr;</a>
   </p>
 
+  <img src="../assets/1de403ae31a8d95954e31d085d763e74cb9499a6b2c55f7457f77731dcc2b1a6.gif" width="88" height="31">
+  <img src="../assets/1de45ba246b619d81806c6cb451bef46c122e013640fc7615a45f5e4f0c46876.gif" width="88" height="31">
+  <img src="../assets/1de52a3b734ffdff98ab0f600aee801967cbaf91477c8245621d214fb6d1e3a6.gif" width="88" height="31">
+  <img src="../assets/1de83b61b0f8e787c77d146e759a75e7ceaff0e9a7414602e26fd6a3f49f7d36.gif" width="88" height="31">
+  <img src="../assets/1dea231be2713c6e0c02661de2fc255a298752d7dee31bc09937f5818c13f2f7.gif" width="88" height="31">
+  <img src="../assets/1debd052fdc54d131054e4e05588aa4caa6b7939c264db792746f1e3fec38fe2.gif" width="88" height="31">
+  <img src="../assets/1dec63a0e6129cca72fcac2c2e85896db1ee6e168ab3c908cec5eb6e1bf4e4c9.gif" width="88" height="31">
+  <img src="../assets/1decdbb4252915bc051f31bd7d484454f5426447a094502031975fd5e3ff1e91.gif" width="88" height="31"><br>
   <img src="../assets/1dece3dbf3870db65051a4dca2fb659946e1fa30acccee4295f09e58385e1328.gif" width="88" height="31">
   <img src="../assets/1ded74b44e36e692b8bb8fd2b8a0bb2c9f777dd7a5efdb378f08f7342865c245.gif" width="88" height="31">
   <img src="../assets/1dee8ac1f16a9f1b6b93c80b80367a6cc96feb391730e16c1ef85db92e5f64dc.gif" width="88" height="31">
@@ -502,12 +510,4 @@
   <img src="../assets/1floppy.png" width="88" height="31">
   <img src="../assets/1geo10.gif" width="88" height="31">
   <img src="../assets/1geo11.gif" width="88" height="31"><br>
-  <img src="../assets/1geo12.gif" width="88" height="31">
-  <img src="../assets/1geo13.gif" width="88" height="31">
-  <img src="../assets/1geo14.gif" width="88" height="31">
-  <img src="../assets/1geo15.gif" width="88" height="31">
-  <img src="../assets/1geo16.gif" width="88" height="31">
-  <img src="../assets/1geo17.gif" width="88" height="31">
-  <img src="../assets/1geo18.gif" width="88" height="31">
-  <img src="../assets/1geo19.gif" width="88" height="31"><br>
 </div>
