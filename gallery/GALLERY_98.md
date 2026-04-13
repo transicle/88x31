@@ -6,6 +6,14 @@
     <a href="./GALLERY_99.md">Next &rarr;</a>
   </p>
 
+  <img src="../assets/auction88x31.gif" width="88" height="31">
+  <img src="../assets/audball_1.gif" width="88" height="31">
+  <img src="../assets/augusta_2023_wibblebrowser.gif" width="88" height="31">
+  <img src="../assets/augustaugust_1.gif" width="88" height="31">
+  <img src="../assets/augustaugust_2.gif" width="88" height="31">
+  <img src="../assets/auri_sacra_fames_auribanner5.jpg" width="88" height="31">
+  <img src="../assets/auri_sacra_fames_smallblueanizavaye.GIF" width="88" height="31">
+  <img src="../assets/auron_2.gif" width="88" height="31"><br>
   <img src="../assets/auronspit_56.jpg" width="88" height="31">
   <img src="../assets/auronspit_8802.gif" width="88" height="31">
   <img src="../assets/auronspit_88X31_1.gif" width="88" height="31">
@@ -502,12 +510,4 @@
   <img src="../assets/b17ce528987c39652bee956e8284d775754f7568d0db45f6cf786c188fff86c6.gif" width="88" height="31">
   <img src="../assets/b17d3420af89b6555d558297564bea5a536d11676d903373ae1fbc20507b3498.gif" width="88" height="31">
   <img src="../assets/b1812205c1b70f5878020018afc4fd510a9152539c292664327672fde1974774.gif" width="88" height="31"><br>
-  <img src="../assets/b18178d51a658e44ba26bd32d489e9a428b4183c114db6e21ef61abce3502e21.gif" width="88" height="31">
-  <img src="../assets/b182a2aff61e8973c7953d9d93a4fe9c10d9dce3b81d39392f14770d055d11bd.gif" width="88" height="31">
-  <img src="../assets/b183daffd170869958d5b1442f8356ec3e258fae0dd77629ffc1628e9ae1575e.gif" width="88" height="31">
-  <img src="../assets/b1850a11db7b42fc61570499d44d1984ad4f4c22d76fef1d83a53ad915b8e3f7.gif" width="88" height="31">
-  <img src="../assets/b18606b2ae545a115ad0f2dd12d6153a17184f0ffe6eec3684dd7497e9502a7b.gif" width="88" height="31">
-  <img src="../assets/b186d0a1dbe95ced7f8c614041bb9996f4d59197654a7844d91fa1d36c20c0fd.gif" width="88" height="31">
-  <img src="../assets/b186df72eb11ae253475dc55f89bddfa3f590750587bc60fae60dd4e8a4b9e1c.gif" width="88" height="31">
-  <img src="../assets/b1879729286225fe65e87290a5cd9ac47d9bc345fc11e419fc7d9eebcbd04f4e.gif" width="88" height="31"><br>
 </div>
