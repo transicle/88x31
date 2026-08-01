@@ -346,7 +346,7 @@
   <img src="../assets/24fba869e083008f3d514722d49188b53adbd767dbc90ecaab0ee2df8a0d5bf2.gif" width="88" height="31">
   <img src="../assets/24fd8bcc2a8815ef9efd35fe7b57e4c28320bbbdb96ad194b695ddfae9e8bf34.gif" width="88" height="31">
   <img src="../assets/24ff4733a626353ba648b43627b9ba03f3ae913707dd58f2a9beab8f4aa83770.gif" width="88" height="31">
-  <img src="../assets/24fun_1.gif" width="88" height="31">
+  <img src="../assets/24fun.gif" width="88" height="31">
   <img src="../assets/24hc_1.gif" width="88" height="31">
   <img src="../assets/25001992d2597f78e0e8853d454093386c55dca7db84ab04552a85a07570d958.gif" width="88" height="31">
   <img src="../assets/2502985a106cc79fcbdb21da409f4f3643c7919b31265985ca034630e3306053.gif" width="88" height="31"><br>
