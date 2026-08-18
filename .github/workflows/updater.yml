@@ -39,5 +39,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add .
-          git commit -m "chore: hourly repository update"
+          git commit -m "chore: monthly repository update"
           git push --force
