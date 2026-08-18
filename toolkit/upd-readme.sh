@@ -6,6 +6,7 @@ repo_root="$(cd "${script_dir}/.." && pwd)"
 assets_dir="${repo_root}/assets"
 readme_file="${repo_root}/README.md"
 gallery_dir="${repo_root}/gallery"
+state_file="${repo_root}/.gallery-state"
 row_size=8
 max_gallery_per_file=504
 
@@ -59,6 +60,20 @@ if (( gallery_pages == 0 )); then
   gallery_pages=1
 fi
 
+previous_count=0
+if [[ -f "${state_file}" ]]; then
+  saved_value="$(cat "${state_file}")"
+  if [[ "${saved_value}" =~ ^[0-9]+$ ]]; then
+    previous_count="${saved_value}"
+  fi
+fi
+
+new_count=$(( total_count - previous_count ))
+if (( new_count < 0 )); then
+  new_count=0
+fi
+
+formatted_new_count="$(format_number "${new_count}")"
 formatted_total_count="$(format_number "${total_count}")"
 formatted_preview_count="$(format_number "${preview_count}")"
 formatted_gallery_page_size="$(format_number "${gallery_page_size}")"
@@ -79,9 +94,16 @@ cat > "${readme_file}" <<'EOF'
 EOF
 
 printf '  <p>Showing first <b>%s</b> of <b>%s</b> buttons. Full gallery is split into %s pages (max %s per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>\n\n' "${formatted_preview_count}" "${formatted_total_count}" "${gallery_pages}" "${formatted_gallery_page_size}" >> "${readme_file}"
-printf '  <p>Synced on %s (%s)</p>\n\n' \
+new_count_suffix=""
+if (( new_count > 0 )); then
+  new_count_suffix=", +${formatted_new_count} new GIFs"
+fi
+
+printf '  <p>Synced on %s (%s)%s</p>\n\n' \
 "$(date -u +"%b. %-dth, %Y, %-I:%M %p UTC")" \
-"$(date -u +"%H:%M")" >> "${readme_file}"
+"$(date -u +"%H:%M")" \
+"${new_count_suffix}" >> "${readme_file}"
+
 printf '  <b>Missing something?</b> Add your website of 88x31 buttons to <a href="https://github.com/transicle/88x31-Button-Scraper/blob/main/sites.txt">this list</a> and wait for the automatic repository update cycle.<br><br>\n\n' >> "${readme_file}"
 
 count=0
@@ -151,4 +173,6 @@ fi
 printf '</div>\n' >> "${readme_file}"
 printf '</div>\n' >> "${current_gallery_file}"
 
-echo "Updated ${readme_file} with ${formatted_preview_count} image tags (preview) and ${gallery_pages} gallery pages in ${gallery_dir} (${formatted_total_count} image tags total)."
+printf '%s\n' "${total_count}" > "${state_file}"
+
+echo "Updated ${readme_file} with ${formatted_preview_count} image tags (preview) and ${gallery_pages} gallery pages in ${gallery_dir} (${formatted_total_count} image tags total, +${formatted_new_count} new since last sync)."
