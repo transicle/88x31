@@ -6,6 +6,14 @@
     <a href="./GALLERY_93.md">Next &rarr;</a>
   </p>
 
+  <img src="../assets/Paris_Metro_5271_macmade.gif" width="88" height="31">
+  <img src="../assets/Paris_Metro_6818_anim_w95link.gif" width="88" height="31">
+  <img src="../assets/Paris_Metro_6818_msie.gif" width="88" height="31">
+  <img src="../assets/Paris_Metro_6818_netscape.gif" width="88" height="31">
+  <img src="../assets/Paris_Metro_7293_images_br_msie.gif" width="88" height="31">
+  <img src="../assets/Paris_Metro_7535_netscape.gif" width="88" height="31">
+  <img src="../assets/Paris_Musee_1147_nightmusic_logo.jpg" width="88" height="31">
+  <img src="../assets/Paris_Musee_1507_acglogo1.gif" width="88" height="31"><br>
   <img src="../assets/Paris_Musee_3643_webbest-anim1.gif" width="88" height="31">
   <img src="../assets/Paris_Musee_4892_order.jpg" width="88" height="31">
   <img src="../assets/Paris_Musee_6894_button6.jpg" width="88" height="31">
@@ -481,33 +489,25 @@
   <img src="../assets/PicketFence_Street_8353_image_narak.gif" width="88" height="31">
   <img src="../assets/PicketFence_Street_8897_Gif_mts_bnr.gif" width="88" height="31">
   <img src="../assets/Pines_ipnow.gif" width="88" height="31">
+  <img src="../assets/Pines_mqfctf4.gif" width="88" height="31">
   <img src="../assets/Pipeline_1599_geocitie.gif" width="88" height="31">
   <img src="../assets/Pipeline_2278_pics_layout_netnow3.gif" width="88" height="31">
   <img src="../assets/Pipeline_2930_lelink.gif" width="88" height="31">
-  <img src="../assets/Pipeline_3000_hieu.gif" width="88" height="31">
-  <img src="../assets/Pipeline_3185_button2.JPG" width="88" height="31"><br>
+  <img src="../assets/Pipeline_3000_hieu.gif" width="88" height="31"><br>
+  <img src="../assets/Pipeline_3185_button2.JPG" width="88" height="31">
   <img src="../assets/Pipeline_3518_3dworld.gif" width="88" height="31">
   <img src="../assets/Pipeline_3518_inthemix.gif" width="88" height="31">
   <img src="../assets/Pipeline_3871_faro.gif" width="88" height="31">
   <img src="../assets/Pipeline_3871_punklogo.jpg" width="88" height="31">
   <img src="../assets/Pipeline_3980_rated.gif" width="88" height="31">
   <img src="../assets/Pipeline_4040_killmac.gif" width="88" height="31">
-  <img src="../assets/Pipeline_4966_animmsie.gif" width="88" height="31">
-  <img src="../assets/Pipeline_4966_logo.gif" width="88" height="31"><br>
+  <img src="../assets/Pipeline_4966_animmsie.gif" width="88" height="31"><br>
+  <img src="../assets/Pipeline_4966_logo.gif" width="88" height="31">
   <img src="../assets/Pipeline_4966_ns.gif" width="88" height="31">
   <img src="../assets/Pipeline_5667_net_icon.gif" width="88" height="31">
   <img src="../assets/Pipeline_5858_snt.gif" width="88" height="31">
   <img src="../assets/Pipeline_6592_button.gif" width="88" height="31">
   <img src="../assets/Pipeline_7828_netskate.gif" width="88" height="31">
   <img src="../assets/Pipeline_7828_skatexplr.gif" width="88" height="31">
-  <img src="../assets/Pipeline_9342_H0801eb0.gif" width="88" height="31">
-  <img src="../assets/Pipeline_9342_H0802eb0.gif" width="88" height="31"><br>
-  <img src="../assets/Pipeline_9342_H0803eb0.gif" width="88" height="31">
-  <img src="../assets/Pipeline_9342_H1300e_a.gif" width="88" height="31">
-  <img src="../assets/Pipeline_9342_H1701eb0.gif" width="88" height="31">
-  <img src="../assets/Pipeline_9342_H1702eb0.gif" width="88" height="31">
-  <img src="../assets/Pipeline_9342_H1801eb0.gif" width="88" height="31">
-  <img src="../assets/Pipeline_9342_H1802eb0.gif" width="88" height="31">
-  <img src="../assets/Pipeline_9342_H1803eb0.gif" width="88" height="31">
-  <img src="../assets/Pipeline_9342_H1804eb0.gif" width="88" height="31"><br>
+  <img src="../assets/Pipeline_9342_H0801eb0.gif" width="88" height="31"><br>
 </div>

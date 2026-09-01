@@ -1,8 +1,8 @@
 <div align="center">
   <h1><i>The</i> Repository for 88x31 Buttons</h1>
-  <p>Showing first <b>304</b> of <b>86,789</b> buttons. Full gallery is split into 173 pages (max 504 per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>
+  <p>Showing first <b>304</b> of <b>86,811</b> buttons. Full gallery is split into 173 pages (max 504 per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>
 
-  <p>Synced on Aug. 18th, 2026, 12:36 AM UTC (00:36), +86,789 new GIFs</p>
+  <p>Synced on Sep. 1th, 2026, 12:36 PM UTC (12:36), +22 new GIFs</p>
 
   <b>Missing something?</b> Add your website of 88x31 buttons to <a href="https://github.com/transicle/88x31-Button-Scraper/blob/main/sites.txt">this list</a> and wait for the automatic repository update cycle.<br><br>
 
