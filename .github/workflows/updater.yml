@@ -47,9 +47,9 @@ jobs:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           COUNT=$(find assets -type f \( -iname "*.gif" -o -iname "*.png" -o -iname "*.jpg" \) | wc -l | tr -d ' ')
-          FORMATTED=$(printf "%'.f" $COUNT)
+          FORMATTED=$(echo "$COUNT" | awk '{printf "%\047d", $1}')
           DESCRIPTION="The largest automatically updated 88x31 2000s esque button repository on the internet. ${FORMATTED} unique stickers saved."
-
+          
           curl -s -X PATCH \
             -H "Authorization: token $PAT_TOKEN" \
             -H "Accept: application/vnd.github+json" \
