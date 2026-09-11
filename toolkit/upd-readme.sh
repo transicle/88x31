@@ -26,6 +26,21 @@ format_number() {
   printf '%s%s' "${n}" "${out}"
 }
 
+ordinal_suffix() {
+  local n="$1"
+  local day=$(( 10#$n ))
+  if (( day >= 11 && day <= 13 )); then
+    echo "${day}th"
+  else
+    case $(( day % 10 )) in
+      1) echo "${day}st" ;;
+      2) echo "${day}nd" ;;
+      3) echo "${day}rd" ;;
+      *) echo "${day}th" ;;
+    esac
+  fi
+}
+
 if [[ ! -d "${assets_dir}" ]]; then
   echo "Error: assets directory not found at ${assets_dir}" >&2
   exit 1
@@ -99,8 +114,10 @@ if (( new_count > 0 )); then
   new_count_suffix=", +${formatted_new_count} new GIFs"
 fi
 
+sync_date="$(date -u +"%b.") $(ordinal_suffix "$(date -u +%-d)"), $(date -u +"%Y, %-I:%M %p UTC")"
+
 printf '  <p>Synced on %s (%s)%s</p>\n\n' \
-"$(date -u +"%b. %-dth, %Y, %-I:%M %p UTC")" \
+"${sync_date}" \
 "$(date -u +"%H:%M")" \
 "${new_count_suffix}" >> "${readme_file}"
 
