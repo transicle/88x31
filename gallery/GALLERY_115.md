@@ -6,58 +6,106 @@
     <a href="./GALLERY_116.md">Next &rarr;</a>
   </p>
 
+  <img src="../assets/buttonadfasd.png" width="88" height="31">
+  <img src="../assets/buttoncollection.gif" width="88" height="31">
+  <img src="../assets/buttoneyes.gif" width="88" height="31">
+  <img src="../assets/buttonfirealpaca.png" width="88" height="31">
+  <img src="../assets/buttonmaker_1.gif" width="88" height="31">
+  <img src="../assets/buttonmania_3.gif" width="88" height="31">
+  <img src="../assets/buttonneo.png" width="88" height="31">
+  <img src="../assets/buttonnn.gif" width="88" height="31"><br>
+  <img src="../assets/buttonombm_1.gif" width="88" height="31">
+  <img src="../assets/buttonpc.gif" width="88" height="31">
+  <img src="../assets/buttons.jpg" width="88" height="31">
+  <img src="../assets/buttonthree.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_2back.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_2blank.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_2email.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_2home.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_2next.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_2photos.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_2poetry.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_2send.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_2sign.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_2view.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_5_back.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_5_blank.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_5_email.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_5_home.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_5_links.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_5_next.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_5_photos.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_5_send.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_5_sign.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_5_view.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_6_back.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_6_blank.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_6_email.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_6_home.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_6_links.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_6_next.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_6_photos.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_6_send.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_6_sign.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_6_view.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_b1back.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_b1blank.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_b1email.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_b1home.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_b1lalbum.gif" width="88" height="31">
+  <img src="../assets/buttonzoo_b1links.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_b1next.gif" width="88" height="31">
   <img src="../assets/buttonzoo_b1send.gif" width="88" height="31">
   <img src="../assets/buttonzoo_b1sign.gif" width="88" height="31">
   <img src="../assets/buttonzoo_b1view.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bfback.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bfblank.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bfemail.gif" width="88" height="31">
-  <img src="../assets/buttonzoo_bfhome.gif" width="88" height="31">
-  <img src="../assets/buttonzoo_bflinks.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_bfhome.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_bflinks.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bfnext.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bfphotos.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bfsend.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bfsign.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bfview.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bgback.gif" width="88" height="31">
-  <img src="../assets/buttonzoo_bgblank.gif" width="88" height="31">
-  <img src="../assets/buttonzoo_bgemail.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_bgblank.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_bgemail.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bghome.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bglinks.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bgnext.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bgphotos.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bgsend.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bgsign.gif" width="88" height="31">
-  <img src="../assets/buttonzoo_bgview.gif" width="88" height="31">
-  <img src="../assets/buttonzoo_bzbutton.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_bgview.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_bzbutton.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bzbutton2.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bzbutton3.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bzbutton4.gif" width="88" height="31">
   <img src="../assets/buttonzoo_bzbutton5.gif" width="88" height="31">
   <img src="../assets/buttonzoo_rb_back.gif" width="88" height="31">
   <img src="../assets/buttonzoo_rb_blank.gif" width="88" height="31">
-  <img src="../assets/buttonzoo_rb_email.gif" width="88" height="31">
-  <img src="../assets/buttonzoo_rb_home.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_rb_email.gif" width="88" height="31"><br>
+  <img src="../assets/buttonzoo_rb_home.gif" width="88" height="31">
   <img src="../assets/buttonzoo_rb_next.gif" width="88" height="31">
   <img src="../assets/buttonzoo_rb_photos.gif" width="88" height="31">
   <img src="../assets/buttonzoo_rb_poetry.gif" width="88" height="31">
   <img src="../assets/buttonzoo_rb_send.gif" width="88" height="31">
   <img src="../assets/buttonzoo_rb_sign.gif" width="88" height="31">
   <img src="../assets/buttonzoo_rb_view.gif" width="88" height="31">
-  <img src="../assets/buttton.gif" width="88" height="31">
-  <img src="../assets/buwinet_clstressed.gif" width="88" height="31"><br>
+  <img src="../assets/buttton.gif" width="88" height="31"><br>
+  <img src="../assets/buwinet_clstressed.gif" width="88" height="31">
   <img src="../assets/buycom2.gif" width="88" height="31">
   <img src="../assets/buycom_1.gif" width="88" height="31">
   <img src="../assets/buyebaystuff88x31.gif" width="88" height="31">
   <img src="../assets/bvbstar.gif" width="88" height="31">
   <img src="../assets/bvwac.gif" width="88" height="31">
-  <img src="../assets/bvwe.gif" width="88" height="31">
-  <img src="../assets/by_cyber-rot_on_neocities.png" width="88" height="31">
-  <img src="../assets/byme_1.gif" width="88" height="31"><br>
+  <img src="../assets/bvwe_1.gif" width="88" height="31">
+  <img src="../assets/by_cyber-rot_on_neocities.png" width="88" height="31"><br>
+  <img src="../assets/byme_1.gif" width="88" height="31">
   <img src="../assets/bynxftp.gif" width="88" height="31">
   <img src="../assets/byobwebring_1.gif" width="88" height="31">
   <img src="../assets/byt_banner.gif" width="88" height="31">
-  <img src="../assets/bytemoth_1.png" width="88" height="31">
   <img src="../assets/bz.png" width="88" height="31">
   <img src="../assets/bz_hiranger_icqplusbtn7.jpg" width="88" height="31">
   <img src="../assets/c0023d28c573f130bee65a02ecf73f3c2526922729e853497950d5fe32a37df0.gif" width="88" height="31">
@@ -462,52 +510,4 @@
   <img src="../assets/c1be60111ae49595e78852ef47f37cadfc1424bc106f14ded10dcd9957681572.gif" width="88" height="31">
   <img src="../assets/c1be6c6363c750b0a9424377d797057f3b5154a2464a3248691728c56fb82b64.gif" width="88" height="31">
   <img src="../assets/c1be743585b01043f5905a68d0aa5057f07bc590457301a6627d0825362b31ca.gif" width="88" height="31"><br>
-  <img src="../assets/c1bfc14bae5038533baad02bed62cd1c1f858979ae5ae153aa4d533906dc1729.gif" width="88" height="31">
-  <img src="../assets/c1c117d0f1e4af9358f8c5ab1f3a63e07e7f9f0d4b8c9f0179083c13cc19c89f.gif" width="88" height="31">
-  <img src="../assets/c1c2dacbd64cb861a5d8808ea1e82e23218920e55242f6b93f6a3cbedd8af5bd.gif" width="88" height="31">
-  <img src="../assets/c1c341ca10149d677bae75d594237a7929e94dc860693f29c699c96d7e772cd2.gif" width="88" height="31">
-  <img src="../assets/c1c3654f2b51654f515262fb034140b422d2e8eb072277b5e292a0d22d1aeda6.gif" width="88" height="31">
-  <img src="../assets/c1c3c4b510e5592f9ae3212452edb7854740469d36b94c2afa7be26a124ced35.gif" width="88" height="31">
-  <img src="../assets/c1c60b373ac615c89202ba181717169065d70cc5d99e3a904b5e2362e0f73cfd.gif" width="88" height="31">
-  <img src="../assets/c1c802ccab761d335640a5b7248fdc1283444ff12f9193bd1d690ff59853d515.gif" width="88" height="31"><br>
-  <img src="../assets/c1c88e48243546411458cf855fd61f3b70265239df3607257b38c3d4519c8140.gif" width="88" height="31">
-  <img src="../assets/c1c906ca45815c8e423899f210a7077c65c30fa7345e3f2a5130605b88aaf982.gif" width="88" height="31">
-  <img src="../assets/c1c94f02091ed61a3a288b8badc4e88e2ff04ffab639c32699093e3e65453362.gif" width="88" height="31">
-  <img src="../assets/c1ca4ae1a524eaa950db78de33ddf819926e7f8ce2fcecb1fbb838a6a47e36c8.gif" width="88" height="31">
-  <img src="../assets/c1ca7fdf9a8480c42a8c807dc137f6b70cf93a9d3fc6c997ec7dd89d1a22b7b2.gif" width="88" height="31">
-  <img src="../assets/c1cbbd011d72fc89fdd7554c4b344c514b942075a89e0fa6d3e3978eb4140a25.gif" width="88" height="31">
-  <img src="../assets/c1cc250034d31b451ea37930e360ae818c81f7653babc2c65f238a2676719411.gif" width="88" height="31">
-  <img src="../assets/c1cc59237c5e0a0b600cb3a270aa84ccb794263329cde9a62815dc1b1cca9ad3.gif" width="88" height="31"><br>
-  <img src="../assets/c1cc6e94f913439143c173e2bb46e29917fa0eab7ecd15a8b2b83effe8423438.gif" width="88" height="31">
-  <img src="../assets/c1d0582f438c943d993d2fc1a5606a2132feaab06287499dded7f112ef3e3cca.gif" width="88" height="31">
-  <img src="../assets/c1d10ec0dd5130f8905a8bdf299c42b9909cc1dc874a18f96e07cbf63f11d6df.gif" width="88" height="31">
-  <img src="../assets/c1d1351224313dbdecec119c9715f533d3d2f5e11fb679ee36193bcf297e8d86.gif" width="88" height="31">
-  <img src="../assets/c1d1546f8a6619fc4478399c2e3d7f73d17b3312963883038bba5ef84d3de92d.gif" width="88" height="31">
-  <img src="../assets/c1d1f133e229674e7f44686f5ba29455183d298a02ed0ef90393c5c80a088d24.gif" width="88" height="31">
-  <img src="../assets/c1d49afc470fcaea2b77a32051ccbd1de248c0a5fa754c6e5d358c2f03d6405c.gif" width="88" height="31">
-  <img src="../assets/c1d4b8bd893ab49e29162109c6a4ba9691d20056a72acdbbebd28aa08f508902.gif" width="88" height="31"><br>
-  <img src="../assets/c1d52e4a7305f2516560dc777ec9ebf0fecd8a150295a300a6717facef6041a3.gif" width="88" height="31">
-  <img src="../assets/c1d60b08156a1ad2673f71da0390e4126dfd87ea8ff9dcc9fa4e670009bbea08.gif" width="88" height="31">
-  <img src="../assets/c1d6c34b337cb5bbc8379d2e606a2416ca158d1afb27c77fe0e8f4bd4fc2ec4e.gif" width="88" height="31">
-  <img src="../assets/c1d703e03b644ccc721859d6ccbd9888356c677f71f4b0f3ef3469d0cd74807e.gif" width="88" height="31">
-  <img src="../assets/c1d7364a294cd32b5e9541e512ff009d7b3e2ecc331bd26c5144532422eb9155.gif" width="88" height="31">
-  <img src="../assets/c1d8d5e3814d4e327031c993702ce38a2b9c607c8aa5ea79878cd26536b35997.gif" width="88" height="31">
-  <img src="../assets/c1d9822ba720bbd9e932967d3692cf9e47e4646cb7013c40063ef647c28ccefa.gif" width="88" height="31">
-  <img src="../assets/c1dc46ba554a17673c1a0fe3d3148c2451d273d6b1497bc75f7bad6531cf8568.gif" width="88" height="31"><br>
-  <img src="../assets/c1deba42fc3182c96a19affc619009afd5f4c04e494570960959f2a28a483f2a.gif" width="88" height="31">
-  <img src="../assets/c1defc0dae75a5330fc080204d83f6ee9af4705e41a8532f28def1ad1258b615.gif" width="88" height="31">
-  <img src="../assets/c1e1f777df5070c0a1b1b5fb2750d4e887d7217e3ad412a1ddbd7477d2369cb3.gif" width="88" height="31">
-  <img src="../assets/c1e590c2cd7e30cc482c11b679da85b77233238a66c57feb7ae310b0099ea2a1.gif" width="88" height="31">
-  <img src="../assets/c1e7fc80796c7b92c5f4535f798d4fdb620595ddcb10719dc29df41b3ed044dc.gif" width="88" height="31">
-  <img src="../assets/c1e816677517e04964fd498e714d19182075d7de842a8f04acebda9398915d98.gif" width="88" height="31">
-  <img src="../assets/c1e8711c6a0de5067726c94eb01f368cb68b7a5e05e2463528d619c7ada8246c.gif" width="88" height="31">
-  <img src="../assets/c1e88c473dab5eb261ad17076938aa48bd7b7dee4dc55e381e3af9d17693e21a.gif" width="88" height="31"><br>
-  <img src="../assets/c1e8e7775e80c8ccd58f4f35ff33bc93b3105f67925bccc2ebb21277ba99284a.gif" width="88" height="31">
-  <img src="../assets/c1ea8e2706a58e06f54ad612e959fd482f90d66a2cc84aa563b44c780106096e.gif" width="88" height="31">
-  <img src="../assets/c1eb08c75220c4f618af2800deefe14086e0cef8f458c672f60dd966824fffb0.gif" width="88" height="31">
-  <img src="../assets/c1ef6cee95ec022ad851173da52ddcbde89a4edc425a6d1ff5bcd880c5ed9633.gif" width="88" height="31">
-  <img src="../assets/c1f1f4750aba34ec2d869dfd6bf746bf543435da342728171ce782f7f08d50f0.gif" width="88" height="31">
-  <img src="../assets/c1f2858e906aa4986db02dd403142a2f38b560dfe4c4bf0e28f893ef40da3f85.gif" width="88" height="31">
-  <img src="../assets/c1f2af2456fb2de90a4931f4f3769a1f9fcdd92d6470ceb9c4f320128bb3754b.gif" width="88" height="31">
-  <img src="../assets/c1f2d3911c2ecd4d5d9abc5dd31148d050051b27ef1e9008edb86976415ad845.gif" width="88" height="31"><br>
 </div>
