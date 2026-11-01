@@ -6,184 +6,224 @@
     <a href="./GALLERY_87.md">Next &rarr;</a>
   </p>
 
+  <img src="../assets/George_Ruban_silval88.gif" width="88" height="31">
+  <img src="../assets/Gods_Little_Lambs__borders_1099253.gif" width="88" height="31">
+  <img src="../assets/GuestWorldbutton.gif" width="88" height="31">
+  <img src="../assets/GuestWorldbutton_1.gif" width="88" height="31">
+  <img src="../assets/HOLbiLK.gif" width="88" height="31">
+  <img src="../assets/HOMEbutton.png" width="88" height="31">
+  <img src="../assets/HP.JPG" width="88" height="31">
+  <img src="../assets/Hall_smallbutton.gif" width="88" height="31"><br>
+  <img src="../assets/Hangar_MAIL.gif" width="88" height="31">
+  <img src="../assets/Harvest_Moon_guide_banner13.gif" width="88" height="31">
+  <img src="../assets/Heartland_1198_ie.gif" width="88" height="31">
+  <img src="../assets/Heartland_1255_colegi7.gif" width="88" height="31">
+  <img src="../assets/Heartland_1498_Graphics_banner.gif" width="88" height="31">
+  <img src="../assets/Heartland_1498_Graphics_onionlin.gif" width="88" height="31">
+  <img src="../assets/Heartland_1539_vfemb.gif" width="88" height="31">
+  <img src="../assets/Heartland_1688_geologo.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_2042_absdesigns.gif" width="88" height="31">
+  <img src="../assets/Heartland_2042_button1.gif" width="88" height="31">
+  <img src="../assets/Heartland_2061_linux.gif" width="88" height="31">
+  <img src="../assets/Heartland_2121_gc_icon.gif" width="88" height="31">
+  <img src="../assets/Heartland_2177_htmlib.gif" width="88" height="31">
+  <img src="../assets/Heartland_2328_move6.gif" width="88" height="31">
+  <img src="../assets/Heartland_2338_Wildlife_cresnow2.gif" width="88" height="31">
+  <img src="../assets/Heartland_2338_Woman_cresnow2.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_2346_images_geo.gif" width="88" height="31">
+  <img src="../assets/Heartland_2538_images_gc_icon1.gif" width="88" height="31">
+  <img src="../assets/Heartland_2538_images_ie_animated1.gif" width="88" height="31">
+  <img src="../assets/Heartland_2538_images_netscape_30now1.gif" width="88" height="31">
+  <img src="../assets/Heartland_2717_jayski_button.gif" width="88" height="31">
+  <img src="../assets/Heartland_2761_images_explorer.gif" width="88" height="31">
+  <img src="../assets/Heartland_2791_images_bluehome1.gif" width="88" height="31">
+  <img src="../assets/Heartland_2791_images_bluelife.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_2791_images_bluelinks.gif" width="88" height="31">
+  <img src="../assets/Heartland_2834_b-room.gif" width="88" height="31">
+  <img src="../assets/Heartland_2834_nolpage.gif" width="88" height="31">
+  <img src="../assets/Heartland_2860_now30_button.gif" width="88" height="31">
+  <img src="../assets/Heartland_2898_hotmail.gif" width="88" height="31">
+  <img src="../assets/Heartland_2914_geocities.GIF" width="88" height="31">
   <img src="../assets/Heartland_2983_800x600.jpg" width="88" height="31">
-  <img src="../assets/Heartland_3287_bbw4.jpg" width="88" height="31">
+  <img src="../assets/Heartland_3287_bbw4.jpg" width="88" height="31"><br>
   <img src="../assets/Heartland_3292_Geoc.gif" width="88" height="31">
   <img src="../assets/Heartland_3299_np.gif" width="88" height="31">
   <img src="../assets/Heartland_3321_geoicon.gif" width="88" height="31">
   <img src="../assets/Heartland_3470_831.gif" width="88" height="31">
   <img src="../assets/Heartland_3470_GWISH2.GIF" width="88" height="31">
-  <img src="../assets/Heartland_3470_smbut.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_3470_smbut.gif" width="88" height="31">
   <img src="../assets/Heartland_3470_sth.gif" width="88" height="31">
-  <img src="../assets/Heartland_3470_wsftp.gif" width="88" height="31">
+  <img src="../assets/Heartland_3470_wsftp.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_3579_macmade-wht.gif" width="88" height="31">
   <img src="../assets/Heartland_3826_homesite1.gif" width="88" height="31">
   <img src="../assets/Heartland_3842_notepad1.gif" width="88" height="31">
   <img src="../assets/Heartland_3896_anybrows.gif" width="88" height="31">
   <img src="../assets/Heartland_3920_NET_LOGO.gif" width="88" height="31">
-  <img src="../assets/Heartland_3920_bw-ax.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_3920_bw-ax.gif" width="88" height="31">
   <img src="../assets/Heartland_4099_pgscounter.gif" width="88" height="31">
-  <img src="../assets/Heartland_4603_geo.gif" width="88" height="31">
+  <img src="../assets/Heartland_4603_geo.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_4940_snapbug.gif" width="88" height="31">
   <img src="../assets/Heartland_4961_effribbn.gif" width="88" height="31">
   <img src="../assets/Heartland_5018_getrocketa.gif" width="88" height="31">
   <img src="../assets/Heartland_5077_systran-.gif" width="88" height="31">
   <img src="../assets/Heartland_5152_cred_btres04.gif" width="88" height="31">
-  <img src="../assets/Heartland_5183_blueribbon.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_5183_blueribbon.gif" width="88" height="31">
   <img src="../assets/Heartland_5217_explorer.gif" width="88" height="31">
-  <img src="../assets/Heartland_5248_macintosh.gif" width="88" height="31">
+  <img src="../assets/Heartland_5248_macintosh.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_5651_bogsm.gif" width="88" height="31">
   <img src="../assets/Heartland_5960_NETNOW3.GIF" width="88" height="31">
   <img src="../assets/Heartland_5960_gc_icon.gif" width="88" height="31">
   <img src="../assets/Heartland_5966_images_browser2.gif" width="88" height="31">
   <img src="../assets/Heartland_6209_jlink.gif" width="88" height="31">
-  <img src="../assets/Heartland_6421_hs25ani_cg15.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_6421_hs25ani_cg15.gif" width="88" height="31">
   <img src="../assets/Heartland_6498_lorr2a.gif" width="88" height="31">
-  <img src="../assets/Heartland_6540_photos_grandprix_gpnbutton.gif" width="88" height="31">
+  <img src="../assets/Heartland_6540_photos_grandprix_gpnbutton.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_7202_klein.gif" width="88" height="31">
   <img src="../assets/Heartland_7202_toymaker.gif" width="88" height="31">
   <img src="../assets/Heartland_7273_images_christnow.gif" width="88" height="31">
   <img src="../assets/Heartland_7378_napp1.gif" width="88" height="31">
   <img src="../assets/Heartland_7572_123link.gif" width="88" height="31">
-  <img src="../assets/Heartland_7572_mm_small.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_7572_mm_small.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_beendusted.gif" width="88" height="31">
-  <img src="../assets/Heartland_7673_guestbooks_blitzdust.gif" width="88" height="31">
+  <img src="../assets/Heartland_7673_guestbooks_blitzdust.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_7673_guestbooks_button.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_dustbutton.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_dustedbutton.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_dusting2.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_dusting4.gif" width="88" height="31">
-  <img src="../assets/Heartland_7673_guestbooks_dusting9.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_7673_guestbooks_dusting9.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_dusting9a.gif" width="88" height="31">
-  <img src="../assets/Heartland_7673_guestbooks_newyear3.gif" width="88" height="31">
+  <img src="../assets/Heartland_7673_guestbooks_newyear3.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_7673_guestbooks_newyearblitz.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_penguinbutton.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_smile.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_wee1bttn.gif" width="88" height="31">
   <img src="../assets/Heartland_7673_guestbooks_wofani.gif" width="88" height="31">
-  <img src="../assets/Heartland_7798_get_shockwave_essentials.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_7798_get_shockwave_essentials.gif" width="88" height="31">
   <img src="../assets/Heartland_7798_ie_animated.gif" width="88" height="31">
-  <img src="../assets/Heartland_7798_netnow3.gif" width="88" height="31">
+  <img src="../assets/Heartland_7798_netnow3.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_8019_Memberships_dbwbutton.gif" width="88" height="31">
   <img src="../assets/Heartland_8019_Spirit_k2mh88x31.gif" width="88" height="31">
   <img src="../assets/Heartland_8020_mircnow.gif" width="88" height="31">
   <img src="../assets/Heartland_8069_nedgen2.gif" width="88" height="31">
   <img src="../assets/Heartland_8148_adopt_gr.gif" width="88" height="31">
-  <img src="../assets/Heartland_8148_jlujeri.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_8148_jlujeri.gif" width="88" height="31">
   <img src="../assets/Heartland_8270_ieplor3.gif" width="88" height="31">
-  <img src="../assets/Heartland_8280_mirc.gif" width="88" height="31">
+  <img src="../assets/Heartland_8280_mirc.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_8883_images_geocities.jpg" width="88" height="31">
   <img src="../assets/Heartland_8883_images_gettv.gif" width="88" height="31">
   <img src="../assets/Heartland_8883_images_listbotjoin.gif" width="88" height="31">
   <img src="../assets/Heartland_9070_netnow3.gif" width="88" height="31">
   <img src="../assets/Heartland_9239_ppntag1.gif" width="88" height="31">
-  <img src="../assets/Heartland_9268_logoblogsearch.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_9268_logoblogsearch.gif" width="88" height="31">
   <img src="../assets/Heartland_9290_dh_snmini6.gif" width="88" height="31">
-  <img src="../assets/Heartland_9354_bvbrows.gif" width="88" height="31">
+  <img src="../assets/Heartland_9354_bvbrows.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_9560_Bars_eternal-life.gif" width="88" height="31">
   <img src="../assets/Heartland_9696_freeware.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1091_eolbutton.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1203_wacky.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_abutton.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_1731_ani_kk.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_1731_ani_kk.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_ani_mah.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_1731_anibutn.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_1731_anibutn.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_1731_anibutton2.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_animwren.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_bannerld.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_c5.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_candyl.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_1731_gclbutton.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_1731_gclbutton.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_irish.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_1731_jeabut.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_1731_jeabut.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_1731_jeabut2.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_lolly.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_prbut.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_qsdesign.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_qslair.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_1731_qstemple.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_1731_qstemple.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_squ.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_1731_tinasbut3.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_1731_tinasbut3.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_1731_tobi-button.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1731_vanity6.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1806_dhminilink1.jpg" width="88" height="31">
   <img src="../assets/Heartland_Acres_1806_logo5.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_1879_cybr_btn.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_1923_animated_logo.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_1923_animated_logo.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2165_booj07.jpg" width="88" height="31">
-  <img src="../assets/Heartland_Acres_2569_credit.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_2569_credit.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_2569_link_7rings2.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2569_link_aislinn.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2569_link_elite.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2569_link_gotgraphics.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2569_link_hmglogo.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_2569_link_invidia.jpg" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_2569_link_invidia.jpg" width="88" height="31">
   <img src="../assets/Heartland_Acres_2569_link_joanns.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_2569_link_kellea.jpg" width="88" height="31">
+  <img src="../assets/Heartland_Acres_2569_link_kellea.jpg" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_2569_link_mwj.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2569_link_twinkk.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2569_link_web2c.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2569_link_webdream.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2569_link_webworx.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_2569_link_white.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_2569_link_white.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_2599_butgbsurfer1.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_3152_csf.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_3152_csf.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_3152_csf1.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3152_csf2.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3152_join001.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3152_join002.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3278_nsmidiicon.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_3561_bogsm.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_3561_bogsm.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3664_pics_njrtlbut.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_3779_adopt.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_3779_adopt.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_3779_breed.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3779_contest.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3779_display.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3779_home.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3779_webring.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_3779_world.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_3779_world.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_3792_images_misc_gc_icon.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_5203_sheep.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_5203_sheep.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_5252_ie.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_5323_Blogbutton2.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_5918_jrbbutton.jpg" width="88" height="31">
   <img src="../assets/Heartland_Acres_5918_rosehm.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_5918_rosenext.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_6385_Christ-pics_christnow.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_6385_Christ-pics_christnow.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_6564_MARYbutton.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_6564_goldieloxidaho.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_6564_goldieloxidaho.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_7042_bluizejackie.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7042_episcopal.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7042_feathersbut.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7042_seskacursillo.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7042_seskagrace.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_7042_sfbutton.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_7042_sfbutton.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7042_tracydecolores.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_7124_index_standupgirl.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_7124_index_standupgirl.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_7124_links_botcw.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7282_eMedSmallAd.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7378_de_catspurr.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7624_tortesz.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7821_astjgbut.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_7821_goldieloxmerry.gif" width="88" height="31"><br>
+  <img src="../assets/Heartland_Acres_7821_goldieloxmerry.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7821_jackmerrys.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_7821_mchampmarch.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_7821_mchampmarch.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_7821_megkaty.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7821_tracymerry.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7821_tracypat.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7855_links_linkeq01.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_7855_links_ssstudio15.gif" width="88" height="31">
-  <img src="../assets/Heartland_Acres_8812_cwclogo.gif" width="88" height="31"><br>
-  <img src="../assets/Heartland_Acres_8855_Pauls.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_8812_cwclogo.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_8826_pspdl.gif" width="88" height="31">
+  <img src="../assets/Heartland_Acres_8855_Pauls.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Acres_8855_vhell.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_9076_Images_gif_0-ie_static.gif" width="88" height="31">
   <img src="../assets/Heartland_Acres_9084_grphlnk.jpg" width="88" height="31">
   <img src="../assets/Heartland_Bluffs_1183_image_downloadsite_netscap1.gif" width="88" height="31">
   <img src="../assets/Heartland_Bluffs_2108_graphics_logos_linkyas3.gif" width="88" height="31">
   <img src="../assets/Heartland_Bluffs_3064_andysartatt.bmp" width="88" height="31">
-  <img src="../assets/Heartland_Bluffs_3064_animfactory.bmp" width="88" height="31"><br>
-  <img src="../assets/Heartland_Bluffs_3064_lia-free.gif" width="88" height="31">
+  <img src="../assets/Heartland_Bluffs_3064_animfactory.bmp" width="88" height="31">
+  <img src="../assets/Heartland_Bluffs_3064_lia-free.gif" width="88" height="31"><br>
   <img src="../assets/Heartland_Bluffs_3816_jmbutton.gif" width="88" height="31">
+  <img src="../assets/Heartland_Bluffs_4563_Netspc.gif" width="88" height="31">
   <img src="../assets/Heartland_Bluffs_4687_images_logo.gif" width="88" height="31">
   <img src="../assets/Heartland_Bluffs_5273_ibelievebutton.gif" width="88" height="31">
   <img src="../assets/Heartland_Bluffs_6129_gettoolzonebutton3.gif" width="88" height="31">
@@ -470,44 +510,4 @@
   <img src="../assets/Heartland_Hills_3833_wallmast.gif" width="88" height="31">
   <img src="../assets/Heartland_Hills_3902_HEB.gif" width="88" height="31">
   <img src="../assets/Heartland_Hills_3968_icq.gif" width="88" height="31"><br>
-  <img src="../assets/Heartland_Hills_4000_images_icon_MoveJM.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_4244_coolgalb1.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_4244_dorman_1.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_4244_susknap.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_4244_sussqua.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_4244_vosus.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_4665_indexedbyff.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_4808_images_gc_icon.jpg" width="88" height="31"><br>
-  <img src="../assets/Heartland_Hills_5013_ccdolllogo.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_5861_bnblink.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_5963_ie.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_6030_TMCbuttn.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_6030_ps_spun.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_6076_fk_logosm.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_6076_iusjump.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_6749_any-browser.gif" width="88" height="31"><br>
-  <img src="../assets/Heartland_Hills_6749_netscape-never.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_7117_Graphics_listsrvr-b.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_7117_Graphics_sgtbtn.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_7162_ie_anima.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_7272_bucklink.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_7649_images_rib_freespeech_now.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_7663_icqdow1.jpg" width="88" height="31">
-  <img src="../assets/Heartland_Hills_7765_lpboton.gif" width="88" height="31"><br>
-  <img src="../assets/Heartland_Hills_7765_tfboton.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_7836_pomslike_IE4.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_7836_pomslike_netscape.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_8073_lorr2b.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_8092_fish.JPG" width="88" height="31">
-  <img src="../assets/Heartland_Hills_8563_ansthes.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_8563_grfik4.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_8563_prozac1.gif" width="88" height="31"><br>
-  <img src="../assets/Heartland_Hills_8677_coffnow4.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_8677_rlp-buto.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_8860_webweaverlogo.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_9125_icon4.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_9125_obr_rb_button.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_9436_cjb.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_9579_img6.gif" width="88" height="31">
-  <img src="../assets/Heartland_Hills_9691_icqdownload.gif" width="88" height="31"><br>
 </div>

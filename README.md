@@ -1,8 +1,8 @@
 <div align="center">
   <h1><i>The</i> Repository for 88x31 Buttons</h1>
-  <p>Showing first <b>304</b> of <b>86,864</b> buttons. Full gallery is split into 173 pages (max 504 per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>
+  <p>Showing first <b>304</b> of <b>86,882</b> buttons. Full gallery is split into 173 pages (max 504 per file): <a href="./gallery/GALLERY_1.md">GALLERY_1.md</a>.</p>
 
-  <p>Synced on Oct. 1st, 2026, 12:38 PM UTC (12:38), +36 new GIFs</p>
+  <p>Synced on Nov. 1st, 2026, 12:31 PM UTC (12:31), +18 new GIFs</p>
 
   <b>Missing something?</b> Add your website of 88x31 buttons to <a href="https://github.com/transicle/88x31-Button-Scraper/blob/main/sites.txt">this list</a> and wait for the automatic repository update cycle.<br><br>
 
@@ -282,32 +282,32 @@
   <img src="./assets/011d5bc8f8568e96ce4fb4756537c6dc5594b17f24fe793dbae2d59db81ca188.gif" width="88" height="31">
   <img src="./assets/011fbfb374a53c3d4701dae8769a7a724acce345418eebe6a22878536be542f1.gif" width="88" height="31">
   <img src="./assets/0120883a9f588c8937fad088f39b520e7966abb53459106f53e143ee2400583b.gif" width="88" height="31">
-  <img src="./assets/0120c2778aaf88d7218c119e42b0b9a4db36b1b766b2278d2aa959af6fafc8ed.gif" width="88" height="31">
   <img src="./assets/0120c9ea9f23186d2a34e0e9e4186cbfc7559345123ff392d9356cce43344127.gif" width="88" height="31">
   <img src="./assets/0122b12e5a15f39f6584f07bbcfc4cf68000004562e408482de427e30068a263.gif" width="88" height="31">
-  <img src="./assets/01249c6aa4b33749ac63665ffc569bc77b54d8cc3b7ba59beae28a6b75066718.gif" width="88" height="31"><br>
-  <img src="./assets/01264b1b8b395ad8aa4a56dc89aabaa0fd8ca9cb170733f0ecae03ea1503cbbd.gif" width="88" height="31">
+  <img src="./assets/01249c6aa4b33749ac63665ffc569bc77b54d8cc3b7ba59beae28a6b75066718.gif" width="88" height="31">
+  <img src="./assets/01264b1b8b395ad8aa4a56dc89aabaa0fd8ca9cb170733f0ecae03ea1503cbbd.gif" width="88" height="31"><br>
   <img src="./assets/0126ebacdc118fa19f087ee186ec2e25e8cd191af0863ce0dba66e15cda1b6bd.gif" width="88" height="31">
   <img src="./assets/0128fdd2a037498122e9c19d948130874d7600cfd40d2542702adf3cd7c20927.gif" width="88" height="31">
   <img src="./assets/012b4ab71f5a5844179845e9a7b68065c1c090ed2de73a858c0f377b177a1716.gif" width="88" height="31">
   <img src="./assets/012b61d9b9a9d8ce8ade792b427c32d5570794dc34004be09ed13104be94f095.gif" width="88" height="31">
   <img src="./assets/012cd8c882f8dfe920ccd16405faedb01ecf63edc70e2ecef5972ef71d4683ae.gif" width="88" height="31">
   <img src="./assets/012e6aad107a064fad134b32ea8d9f8d44ae40dc7c38824ec9949c84a60fe6da.gif" width="88" height="31">
-  <img src="./assets/012f169db0cd8517e2f712d44434c71db71d858548017068530a53eb7cd749ad.gif" width="88" height="31"><br>
-  <img src="./assets/01307566121fade73a62d780185583c7bb8a56b4c0760e916d169fdb2122fa0f.gif" width="88" height="31">
+  <img src="./assets/012f169db0cd8517e2f712d44434c71db71d858548017068530a53eb7cd749ad.gif" width="88" height="31">
+  <img src="./assets/01307566121fade73a62d780185583c7bb8a56b4c0760e916d169fdb2122fa0f.gif" width="88" height="31"><br>
   <img src="./assets/01340754cefbd4a9867e26159be99d4a62c0385bc32ddd0fd3e49be29ff5c9c5.gif" width="88" height="31">
   <img src="./assets/0135de501266569148a7785d555a3409d505dca30fc6207b9c6b62bf9b0b41bc.gif" width="88" height="31">
   <img src="./assets/0138fd917667f7714c153e45ae2328f59b47e39fba80aedbf72c895aadfbff8e.gif" width="88" height="31">
   <img src="./assets/013a7cd28f18462e91a46d825559af085a53aeede4ed52cc107c861bd9bb9be8.gif" width="88" height="31">
   <img src="./assets/013adbd0173e3d3d366ed82255c948dfae1583574d04a5df0e5ea247c15715cc.gif" width="88" height="31">
   <img src="./assets/013b1bce4d3dc5da3a3df8cd7cf227dbb653979080df1fa1ce7862f6d7c497ac.gif" width="88" height="31">
-  <img src="./assets/013cd7c919b4c92378b5631b44b9924922f699fec716c12f4e7caaa8515ada8e.gif" width="88" height="31"><br>
-  <img src="./assets/013d503158cd070c3a20e56c10a594a43ea98041eda466f74dc558391c4f9fc8.gif" width="88" height="31">
+  <img src="./assets/013cd7c919b4c92378b5631b44b9924922f699fec716c12f4e7caaa8515ada8e.gif" width="88" height="31">
+  <img src="./assets/013d503158cd070c3a20e56c10a594a43ea98041eda466f74dc558391c4f9fc8.gif" width="88" height="31"><br>
   <img src="./assets/0140249ae140b6aa3ad02405c49acc32db6a050144ee3428db6b9d19c38dd707.gif" width="88" height="31">
   <img src="./assets/0141b9001ccd3256187532c4c89f951586802c60fd6ed67ea508257b66bcba62.gif" width="88" height="31">
   <img src="./assets/0142284aeb63c2fb833e51c7ac3729c93f8e10ad44cde8de04dc4d6bcc7bfd57.gif" width="88" height="31">
   <img src="./assets/01431744680b8f5d0b5d424150f1028aaf7f04c283b821dcf923efb00e5e7c53.gif" width="88" height="31">
   <img src="./assets/01457065331abd700f7690bfcdb8690217cf2c385bf37a8e1a35c7fd9ab2af65.gif" width="88" height="31">
   <img src="./assets/0147423f269cbe338d0df0dc9f99ec36736ed674d4ea5ba6eee308ac920806e9.gif" width="88" height="31">
-  <img src="./assets/014a1b9bfa0e105682ea13162cb9059b21871457806e92c09af05a9966c91050.gif" width="88" height="31"><br>
+  <img src="./assets/014a1b9bfa0e105682ea13162cb9059b21871457806e92c09af05a9966c91050.gif" width="88" height="31">
+  <img src="./assets/014b1126fe01c5176aae3c4b30cb69b2eebc6e5cea8b58c05b9153bacb6506e0.gif" width="88" height="31"><br>
 </div>
